@@ -1,0 +1,4290 @@
+{
+  "sales": [
+    {
+      "date": "01.05.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 10225,
+      "fact": 8331,
+      "profit_plan": 1636,
+      "profit_fact": 916
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 11167,
+      "fact": 9492,
+      "profit_plan": 893,
+      "profit_fact": 1139
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 8809,
+      "fact": 10946,
+      "profit_plan": 1674,
+      "profit_fact": 1313
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 7106,
+      "fact": 7569,
+      "profit_plan": 1421,
+      "profit_fact": 757
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 11868,
+      "fact": 14747,
+      "profit_plan": 1187,
+      "profit_fact": 3244
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 9009,
+      "fact": 5247,
+      "profit_plan": 1802,
+      "profit_fact": 1312
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 6909,
+      "fact": 6786,
+      "profit_plan": 1244,
+      "profit_fact": 1222
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 14879,
+      "fact": 14166,
+      "profit_plan": 2529,
+      "profit_fact": 2408
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 7030,
+      "fact": 5472,
+      "profit_plan": 1406,
+      "profit_fact": 383
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 11721,
+      "fact": 8538,
+      "profit_plan": 1524,
+      "profit_fact": 1281
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 14315,
+      "fact": 7962,
+      "profit_plan": 2147,
+      "profit_fact": 1911
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 6934,
+      "fact": 8426,
+      "profit_plan": 1734,
+      "profit_fact": 1854
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 8065,
+      "fact": 9385,
+      "profit_plan": 1210,
+      "profit_fact": 938
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 9814,
+      "fact": 5891,
+      "profit_plan": 2355,
+      "profit_fact": 1178
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 8853,
+      "fact": 11205,
+      "profit_plan": 2213,
+      "profit_fact": 896
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 12928,
+      "fact": 11681,
+      "profit_plan": 905,
+      "profit_fact": 818
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 14089,
+      "fact": 10510,
+      "profit_plan": 986,
+      "profit_fact": 1051
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 10265,
+      "fact": 9132,
+      "profit_plan": 1848,
+      "profit_fact": 2009
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 9272,
+      "fact": 6871,
+      "profit_plan": 2318,
+      "profit_fact": 1031
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 8495,
+      "fact": 9333,
+      "profit_plan": 1359,
+      "profit_fact": 1773
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 11919,
+      "fact": 15164,
+      "profit_plan": 1549,
+      "profit_fact": 3033
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 12571,
+      "fact": 11135,
+      "profit_plan": 1760,
+      "profit_fact": 2338
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 5921,
+      "fact": 6108,
+      "profit_plan": 829,
+      "profit_fact": 977
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 8105,
+      "fact": 5923,
+      "profit_plan": 1135,
+      "profit_fact": 1303
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 4972,
+      "fact": 4315,
+      "profit_plan": 845,
+      "profit_fact": 388
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 11146,
+      "fact": 7989,
+      "profit_plan": 2006,
+      "profit_fact": 1278
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 14870,
+      "fact": 19101,
+      "profit_plan": 1338,
+      "profit_fact": 4393
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 10394,
+      "fact": 7144,
+      "profit_plan": 2079,
+      "profit_fact": 714
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 13694,
+      "fact": 10572,
+      "profit_plan": 2739,
+      "profit_fact": 2326
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 7256,
+      "fact": 9419,
+      "profit_plan": 943,
+      "profit_fact": 1507
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 7612,
+      "fact": 5985,
+      "profit_plan": 990,
+      "profit_fact": 658
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 10499,
+      "fact": 8579,
+      "profit_plan": 840,
+      "profit_fact": 1544
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 13873,
+      "fact": 17761,
+      "profit_plan": 2081,
+      "profit_fact": 1776
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 5123,
+      "fact": 6638,
+      "profit_plan": 768,
+      "profit_fact": 1659
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 5636,
+      "fact": 4414,
+      "profit_plan": 564,
+      "profit_fact": 353
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 5483,
+      "fact": 3687,
+      "profit_plan": 658,
+      "profit_fact": 553
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 14479,
+      "fact": 10200,
+      "profit_plan": 1593,
+      "profit_fact": 1734
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 9866,
+      "fact": 6676,
+      "profit_plan": 2269,
+      "profit_fact": 1268
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 3812,
+      "fact": 4523,
+      "profit_plan": 801,
+      "profit_fact": 769
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 3815,
+      "fact": 2843,
+      "profit_plan": 763,
+      "profit_fact": 682
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 11685,
+      "fact": 9506,
+      "profit_plan": 1285,
+      "profit_fact": 1901
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 10811,
+      "fact": 9105,
+      "profit_plan": 1946,
+      "profit_fact": 1002
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 9254,
+      "fact": 12166,
+      "profit_plan": 1203,
+      "profit_fact": 1460
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 4986,
+      "fact": 4895,
+      "profit_plan": 848,
+      "profit_fact": 685
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 5284,
+      "fact": 6910,
+      "profit_plan": 476,
+      "profit_fact": 829
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 9634,
+      "fact": 10250,
+      "profit_plan": 674,
+      "profit_fact": 1025
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 12751,
+      "fact": 14715,
+      "profit_plan": 2423,
+      "profit_fact": 3679
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 9675,
+      "fact": 12599,
+      "profit_plan": 2225,
+      "profit_fact": 1134
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 13022,
+      "fact": 16784,
+      "profit_plan": 2474,
+      "profit_fact": 4028
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 11172,
+      "fact": 13100,
+      "profit_plan": 1117,
+      "profit_fact": 1703
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 8575,
+      "fact": 7289,
+      "profit_plan": 1887,
+      "profit_fact": 1020
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 3637,
+      "fact": 2056,
+      "profit_plan": 873,
+      "profit_fact": 247
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 3504,
+      "fact": 2590,
+      "profit_plan": 385,
+      "profit_fact": 311
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 3558,
+      "fact": 3048,
+      "profit_plan": 783,
+      "profit_fact": 640
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 5140,
+      "fact": 6216,
+      "profit_plan": 1131,
+      "profit_fact": 1181
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 9128,
+      "fact": 8511,
+      "profit_plan": 730,
+      "profit_fact": 681
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 6368,
+      "fact": 4614,
+      "profit_plan": 509,
+      "profit_fact": 1107
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 9451,
+      "fact": 10094,
+      "profit_plan": 2268,
+      "profit_fact": 908
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 13893,
+      "fact": 18184,
+      "profit_plan": 1250,
+      "profit_fact": 4364
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 14392,
+      "fact": 14314,
+      "profit_plan": 2159,
+      "profit_fact": 2863
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 3674,
+      "fact": 3082,
+      "profit_plan": 735,
+      "profit_fact": 493
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 10624,
+      "fact": 7202,
+      "profit_plan": 1700,
+      "profit_fact": 1440
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 9654,
+      "fact": 11801,
+      "profit_plan": 1545,
+      "profit_fact": 2832
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 9363,
+      "fact": 12467,
+      "profit_plan": 749,
+      "profit_fact": 2867
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 4460,
+      "fact": 4767,
+      "profit_plan": 624,
+      "profit_fact": 572
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 10608,
+      "fact": 8605,
+      "profit_plan": 2228,
+      "profit_fact": 2065
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 9542,
+      "fact": 8959,
+      "profit_plan": 1908,
+      "profit_fact": 1523
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 11702,
+      "fact": 12301,
+      "profit_plan": 1638,
+      "profit_fact": 2829
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 6527,
+      "fact": 5995,
+      "profit_plan": 1436,
+      "profit_fact": 1379
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 7803,
+      "fact": 6478,
+      "profit_plan": 702,
+      "profit_fact": 453
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 5816,
+      "fact": 3745,
+      "profit_plan": 1280,
+      "profit_fact": 599
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 8307,
+      "fact": 10743,
+      "profit_plan": 831,
+      "profit_fact": 1611
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 11865,
+      "fact": 12274,
+      "profit_plan": 2136,
+      "profit_fact": 3068
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 6368,
+      "fact": 7222,
+      "profit_plan": 764,
+      "profit_fact": 1011
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 8319,
+      "fact": 4753,
+      "profit_plan": 1497,
+      "profit_fact": 998
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 11371,
+      "fact": 9089,
+      "profit_plan": 2274,
+      "profit_fact": 909
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 12522,
+      "fact": 15007,
+      "profit_plan": 3005,
+      "profit_fact": 2851
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 13666,
+      "fact": 17672,
+      "profit_plan": 1640,
+      "profit_fact": 1767
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 8932,
+      "fact": 8150,
+      "profit_plan": 1161,
+      "profit_fact": 896
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 10534,
+      "fact": 9454,
+      "profit_plan": 1791,
+      "profit_fact": 2269
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 13799,
+      "fact": 11232,
+      "profit_plan": 1380,
+      "profit_fact": 786
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 9819,
+      "fact": 9998,
+      "profit_plan": 1178,
+      "profit_fact": 1100
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 5546,
+      "fact": 3331,
+      "profit_plan": 1109,
+      "profit_fact": 666
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 14818,
+      "fact": 17069,
+      "profit_plan": 2667,
+      "profit_fact": 2390
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 9310,
+      "fact": 10743,
+      "profit_plan": 1024,
+      "profit_fact": 2471
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 10121,
+      "fact": 6323,
+      "profit_plan": 2530,
+      "profit_fact": 1454
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 5777,
+      "fact": 3476,
+      "profit_plan": 982,
+      "profit_fact": 869
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 5152,
+      "fact": 5058,
+      "profit_plan": 824,
+      "profit_fact": 708
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 11292,
+      "fact": 14800,
+      "profit_plan": 1242,
+      "profit_fact": 2664
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 12904,
+      "fact": 16967,
+      "profit_plan": 1548,
+      "profit_fact": 1866
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 13634,
+      "fact": 10029,
+      "profit_plan": 1636,
+      "profit_fact": 1003
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 4815,
+      "fact": 3363,
+      "profit_plan": 1011,
+      "profit_fact": 471
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 8947,
+      "fact": 7004,
+      "profit_plan": 805,
+      "profit_fact": 700
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 4190,
+      "fact": 5146,
+      "profit_plan": 1006,
+      "profit_fact": 1235
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 11119,
+      "fact": 14253,
+      "profit_plan": 2113,
+      "profit_fact": 2138
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 6428,
+      "fact": 5947,
+      "profit_plan": 1157,
+      "profit_fact": 595
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 13708,
+      "fact": 12873,
+      "profit_plan": 2742,
+      "profit_fact": 1159
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 12210,
+      "fact": 13694,
+      "profit_plan": 1587,
+      "profit_fact": 3287
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 9898,
+      "fact": 7560,
+      "profit_plan": 1683,
+      "profit_fact": 1814
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 7204,
+      "fact": 7832,
+      "profit_plan": 1441,
+      "profit_fact": 627
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 6380,
+      "fact": 3557,
+      "profit_plan": 1276,
+      "profit_fact": 498
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 8080,
+      "fact": 5029,
+      "profit_plan": 566,
+      "profit_fact": 453
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 14941,
+      "fact": 15612,
+      "profit_plan": 1793,
+      "profit_fact": 3591
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 3451,
+      "fact": 3740,
+      "profit_plan": 656,
+      "profit_fact": 785
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 7862,
+      "fact": 8038,
+      "profit_plan": 708,
+      "profit_fact": 804
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 5635,
+      "fact": 7170,
+      "profit_plan": 958,
+      "profit_fact": 932
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 7749,
+      "fact": 5923,
+      "profit_plan": 1472,
+      "profit_fact": 888
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 13673,
+      "fact": 7636,
+      "profit_plan": 2735,
+      "profit_fact": 534
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 14468,
+      "fact": 9867,
+      "profit_plan": 2315,
+      "profit_fact": 987
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 11284,
+      "fact": 7644,
+      "profit_plan": 1580,
+      "profit_fact": 1911
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 14393,
+      "fact": 15279,
+      "profit_plan": 3166,
+      "profit_fact": 1070
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 7371,
+      "fact": 6216,
+      "profit_plan": 1769,
+      "profit_fact": 1181
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 7801,
+      "fact": 5215,
+      "profit_plan": 1170,
+      "profit_fact": 887
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 5887,
+      "fact": 4195,
+      "profit_plan": 530,
+      "profit_fact": 713
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 7962,
+      "fact": 7590,
+      "profit_plan": 1433,
+      "profit_fact": 1063
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 8257,
+      "fact": 10850,
+      "profit_plan": 1899,
+      "profit_fact": 1193
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 6090,
+      "fact": 7608,
+      "profit_plan": 974,
+      "profit_fact": 1293
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 9657,
+      "fact": 8147,
+      "profit_plan": 1062,
+      "profit_fact": 570
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 11494,
+      "fact": 10922,
+      "profit_plan": 1379,
+      "profit_fact": 1201
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 13255,
+      "fact": 7657,
+      "profit_plan": 2784,
+      "profit_fact": 1914
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 11445,
+      "fact": 12620,
+      "profit_plan": 2747,
+      "profit_fact": 2019
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 14356,
+      "fact": 18409,
+      "profit_plan": 1723,
+      "profit_fact": 4234
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 10876,
+      "fact": 8323,
+      "profit_plan": 979,
+      "profit_fact": 1248
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 3819,
+      "fact": 2271,
+      "profit_plan": 306,
+      "profit_fact": 295
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 6391,
+      "fact": 7686,
+      "profit_plan": 1150,
+      "profit_fact": 1922
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 7237,
+      "fact": 5224,
+      "profit_plan": 1303,
+      "profit_fact": 1097
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 12646,
+      "fact": 11832,
+      "profit_plan": 2023,
+      "profit_fact": 2248
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 12430,
+      "fact": 14924,
+      "profit_plan": 2486,
+      "profit_fact": 3433
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 9085,
+      "fact": 6570,
+      "profit_plan": 1454,
+      "profit_fact": 986
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 7144,
+      "fact": 6026,
+      "profit_plan": 1500,
+      "profit_fact": 663
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 4196,
+      "fact": 3584,
+      "profit_plan": 797,
+      "profit_fact": 394
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 9393,
+      "fact": 8223,
+      "profit_plan": 2348,
+      "profit_fact": 987
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 7743,
+      "fact": 9223,
+      "profit_plan": 1858,
+      "profit_fact": 1752
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 14798,
+      "fact": 14070,
+      "profit_plan": 1036,
+      "profit_fact": 1126
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 10457,
+      "fact": 10139,
+      "profit_plan": 1569,
+      "profit_fact": 2129
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 6931,
+      "fact": 4501,
+      "profit_plan": 1663,
+      "profit_fact": 990
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 4512,
+      "fact": 5629,
+      "profit_plan": 857,
+      "profit_fact": 394
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 11377,
+      "fact": 8849,
+      "profit_plan": 1707,
+      "profit_fact": 2212
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 7807,
+      "fact": 7869,
+      "profit_plan": 546,
+      "profit_fact": 787
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 4304,
+      "fact": 3797,
+      "profit_plan": 990,
+      "profit_fact": 380
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 14806,
+      "fact": 12366,
+      "profit_plan": 2813,
+      "profit_fact": 3092
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 13550,
+      "fact": 12501,
+      "profit_plan": 1084,
+      "profit_fact": 1125
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 13160,
+      "fact": 15498,
+      "profit_plan": 1579,
+      "profit_fact": 3255
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 3962,
+      "fact": 3289,
+      "profit_plan": 594,
+      "profit_fact": 691
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 12412,
+      "fact": 14427,
+      "profit_plan": 1614,
+      "profit_fact": 2453
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 13496,
+      "fact": 15916,
+      "profit_plan": 2294,
+      "profit_fact": 1910
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 14195,
+      "fact": 16438,
+      "profit_plan": 3123,
+      "profit_fact": 3288
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 9614,
+      "fact": 8595,
+      "profit_plan": 1154,
+      "profit_fact": 1117
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 3460,
+      "fact": 4598,
+      "profit_plan": 277,
+      "profit_fact": 920
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 7458,
+      "fact": 4351,
+      "profit_plan": 1268,
+      "profit_fact": 1044
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 14387,
+      "fact": 17184,
+      "profit_plan": 2734,
+      "profit_fact": 2921
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 6332,
+      "fact": 4019,
+      "profit_plan": 1456,
+      "profit_fact": 442
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 10326,
+      "fact": 11549,
+      "profit_plan": 826,
+      "profit_fact": 1155
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 5818,
+      "fact": 4773,
+      "profit_plan": 698,
+      "profit_fact": 621
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 5349,
+      "fact": 6418,
+      "profit_plan": 428,
+      "profit_fact": 1476
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 11038,
+      "fact": 8401,
+      "profit_plan": 2097,
+      "profit_fact": 2016
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 13214,
+      "fact": 15431,
+      "profit_plan": 1586,
+      "profit_fact": 3549
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 9709,
+      "fact": 12896,
+      "profit_plan": 1068,
+      "profit_fact": 2708
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 9540,
+      "fact": 7705,
+      "profit_plan": 1813,
+      "profit_fact": 1849
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 6028,
+      "fact": 3708,
+      "profit_plan": 1447,
+      "profit_fact": 260
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 13610,
+      "fact": 13460,
+      "profit_plan": 2178,
+      "profit_fact": 1481
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 12529,
+      "fact": 15981,
+      "profit_plan": 2631,
+      "profit_fact": 2397
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 7609,
+      "fact": 7423,
+      "profit_plan": 1065,
+      "profit_fact": 1336
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 5232,
+      "fact": 6030,
+      "profit_plan": 523,
+      "profit_fact": 1146
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 10607,
+      "fact": 10468,
+      "profit_plan": 1273,
+      "profit_fact": 1884
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 10753,
+      "fact": 12808,
+      "profit_plan": 2043,
+      "profit_fact": 2562
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 4155,
+      "fact": 2649,
+      "profit_plan": 291,
+      "profit_fact": 318
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 14445,
+      "fact": 10994,
+      "profit_plan": 3467,
+      "profit_fact": 1209
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 11806,
+      "fact": 13835,
+      "profit_plan": 2243,
+      "profit_fact": 2629
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 9416,
+      "fact": 7329,
+      "profit_plan": 2072,
+      "profit_fact": 586
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 8441,
+      "fact": 10019,
+      "profit_plan": 760,
+      "profit_fact": 2204
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 11364,
+      "fact": 9745,
+      "profit_plan": 1818,
+      "profit_fact": 1657
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 6477,
+      "fact": 6623,
+      "profit_plan": 1231,
+      "profit_fact": 464
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 13323,
+      "fact": 9730,
+      "profit_plan": 3064,
+      "profit_fact": 2141
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 9359,
+      "fact": 9321,
+      "profit_plan": 1591,
+      "profit_fact": 1864
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 13579,
+      "fact": 13878,
+      "profit_plan": 3123,
+      "profit_fact": 3331
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 10916,
+      "fact": 7530,
+      "profit_plan": 1856,
+      "profit_fact": 1431
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 5588,
+      "fact": 5143,
+      "profit_plan": 838,
+      "profit_fact": 1080
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 6688,
+      "fact": 5062,
+      "profit_plan": 1271,
+      "profit_fact": 1164
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 9797,
+      "fact": 10198,
+      "profit_plan": 1078,
+      "profit_fact": 1632
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 11958,
+      "fact": 6772,
+      "profit_plan": 2870,
+      "profit_fact": 1016
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 12175,
+      "fact": 14582,
+      "profit_plan": 3044,
+      "profit_fact": 3500
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 10764,
+      "fact": 12411,
+      "profit_plan": 1507,
+      "profit_fact": 2730
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 7949,
+      "fact": 9403,
+      "profit_plan": 556,
+      "profit_fact": 2257
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 7747,
+      "fact": 9071,
+      "profit_plan": 1704,
+      "profit_fact": 907
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 8415,
+      "fact": 10654,
+      "profit_plan": 1683,
+      "profit_fact": 1705
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 14421,
+      "fact": 16357,
+      "profit_plan": 1298,
+      "profit_fact": 2617
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 6660,
+      "fact": 7387,
+      "profit_plan": 1199,
+      "profit_fact": 1847
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 6009,
+      "fact": 7246,
+      "profit_plan": 1142,
+      "profit_fact": 652
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 9836,
+      "fact": 8751,
+      "profit_plan": 1082,
+      "profit_fact": 1663
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 5352,
+      "fact": 3494,
+      "profit_plan": 428,
+      "profit_fact": 279
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 8909,
+      "fact": 7067,
+      "profit_plan": 1871,
+      "profit_fact": 1343
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 6273,
+      "fact": 6856,
+      "profit_plan": 1568,
+      "profit_fact": 1166
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 5386,
+      "fact": 3843,
+      "profit_plan": 1023,
+      "profit_fact": 576
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 6979,
+      "fact": 6958,
+      "profit_plan": 1535,
+      "profit_fact": 905
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 4785,
+      "fact": 2826,
+      "profit_plan": 1053,
+      "profit_fact": 396
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 8328,
+      "fact": 8774,
+      "profit_plan": 833,
+      "profit_fact": 965
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 10425,
+      "fact": 12705,
+      "profit_plan": 1668,
+      "profit_fact": 2541
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 4938,
+      "fact": 3107,
+      "profit_plan": 1185,
+      "profit_fact": 715
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 8264,
+      "fact": 6735,
+      "profit_plan": 1983,
+      "profit_fact": 943
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 13315,
+      "fact": 8726,
+      "profit_plan": 3196,
+      "profit_fact": 698
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 5892,
+      "fact": 7600,
+      "profit_plan": 589,
+      "profit_fact": 1064
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 7884,
+      "fact": 6301,
+      "profit_plan": 867,
+      "profit_fact": 1260
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 3729,
+      "fact": 2344,
+      "profit_plan": 895,
+      "profit_fact": 445
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 3361,
+      "fact": 2735,
+      "profit_plan": 235,
+      "profit_fact": 301
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 6792,
+      "fact": 5339,
+      "profit_plan": 475,
+      "profit_fact": 961
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 13020,
+      "fact": 12129,
+      "profit_plan": 2995,
+      "profit_fact": 2183
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 12701,
+      "fact": 13645,
+      "profit_plan": 1905,
+      "profit_fact": 2729
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 12345,
+      "fact": 15686,
+      "profit_plan": 3086,
+      "profit_fact": 2353
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 13351,
+      "fact": 12430,
+      "profit_plan": 3204,
+      "profit_fact": 2237
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 6859,
+      "fact": 6896,
+      "profit_plan": 1715,
+      "profit_fact": 1586
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 14108,
+      "fact": 17082,
+      "profit_plan": 1411,
+      "profit_fact": 2221
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 14034,
+      "fact": 10131,
+      "profit_plan": 2526,
+      "profit_fact": 2229
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 14213,
+      "fact": 14979,
+      "profit_plan": 1990,
+      "profit_fact": 3445
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 8150,
+      "fact": 5957,
+      "profit_plan": 1793,
+      "profit_fact": 536
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 14605,
+      "fact": 14878,
+      "profit_plan": 2629,
+      "profit_fact": 2380
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 10680,
+      "fact": 10513,
+      "profit_plan": 961,
+      "profit_fact": 1051
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 11650,
+      "fact": 10224,
+      "profit_plan": 2563,
+      "profit_fact": 920
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 8794,
+      "fact": 5436,
+      "profit_plan": 1055,
+      "profit_fact": 598
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 4225,
+      "fact": 2420,
+      "profit_plan": 423,
+      "profit_fact": 605
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 6566,
+      "fact": 6828,
+      "profit_plan": 1576,
+      "profit_fact": 1707
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 7886,
+      "fact": 5751,
+      "profit_plan": 1341,
+      "profit_fact": 1208
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 4991,
+      "fact": 5696,
+      "profit_plan": 1048,
+      "profit_fact": 1310
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 11711,
+      "fact": 6873,
+      "profit_plan": 1874,
+      "profit_fact": 1100
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 12588,
+      "fact": 16584,
+      "profit_plan": 1762,
+      "profit_fact": 4146
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 5978,
+      "fact": 3754,
+      "profit_plan": 1136,
+      "profit_fact": 863
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 11330,
+      "fact": 14054,
+      "profit_plan": 2719,
+      "profit_fact": 2108
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 4062,
+      "fact": 4320,
+      "profit_plan": 609,
+      "profit_fact": 691
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 12730,
+      "fact": 13832,
+      "profit_plan": 2546,
+      "profit_fact": 2905
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 10573,
+      "fact": 13644,
+      "profit_plan": 1586,
+      "profit_fact": 1910
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 9733,
+      "fact": 7812,
+      "profit_plan": 973,
+      "profit_fact": 547
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 3816,
+      "fact": 4976,
+      "profit_plan": 954,
+      "profit_fact": 647
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 7748,
+      "fact": 6050,
+      "profit_plan": 1550,
+      "profit_fact": 1331
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 8948,
+      "fact": 9178,
+      "profit_plan": 1163,
+      "profit_fact": 1468
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 4171,
+      "fact": 4611,
+      "profit_plan": 876,
+      "profit_fact": 1107
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 9660,
+      "fact": 10350,
+      "profit_plan": 773,
+      "profit_fact": 828
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 4682,
+      "fact": 6172,
+      "profit_plan": 328,
+      "profit_fact": 1543
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 6250,
+      "fact": 7256,
+      "profit_plan": 1375,
+      "profit_fact": 1234
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 5390,
+      "fact": 6673,
+      "profit_plan": 916,
+      "profit_fact": 1602
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 14661,
+      "fact": 13270,
+      "profit_plan": 1026,
+      "profit_fact": 2389
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 8938,
+      "fact": 9476,
+      "profit_plan": 983,
+      "profit_fact": 2085
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 6252,
+      "fact": 7818,
+      "profit_plan": 563,
+      "profit_fact": 782
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 4226,
+      "fact": 4394,
+      "profit_plan": 549,
+      "profit_fact": 879
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 12411,
+      "fact": 12803,
+      "profit_plan": 2110,
+      "profit_fact": 3201
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 8168,
+      "fact": 5882,
+      "profit_plan": 1797,
+      "profit_fact": 823
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 13848,
+      "fact": 7866,
+      "profit_plan": 2493,
+      "profit_fact": 1494
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 11813,
+      "fact": 10368,
+      "profit_plan": 1418,
+      "profit_fact": 829
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 14532,
+      "fact": 9643,
+      "profit_plan": 2034,
+      "profit_fact": 2121
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 11919,
+      "fact": 8664,
+      "profit_plan": 2265,
+      "profit_fact": 693
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 9206,
+      "fact": 5287,
+      "profit_plan": 1381,
+      "profit_fact": 1216
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 14946,
+      "fact": 14322,
+      "profit_plan": 2541,
+      "profit_fact": 1862
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 12749,
+      "fact": 14792,
+      "profit_plan": 1530,
+      "profit_fact": 3254
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 6782,
+      "fact": 4284,
+      "profit_plan": 882,
+      "profit_fact": 857
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 14542,
+      "fact": 17525,
+      "profit_plan": 1745,
+      "profit_fact": 2629
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 10760,
+      "fact": 12600,
+      "profit_plan": 2260,
+      "profit_fact": 2394
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 8173,
+      "fact": 9977,
+      "profit_plan": 1880,
+      "profit_fact": 2095
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 10863,
+      "fact": 14251,
+      "profit_plan": 2390,
+      "profit_fact": 1140
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 11951,
+      "fact": 13721,
+      "profit_plan": 2390,
+      "profit_fact": 1647
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 11709,
+      "fact": 8109,
+      "profit_plan": 1756,
+      "profit_fact": 1460
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 9303,
+      "fact": 6150,
+      "profit_plan": 1582,
+      "profit_fact": 1292
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 11933,
+      "fact": 7812,
+      "profit_plan": 2745,
+      "profit_fact": 1484
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 13979,
+      "fact": 7918,
+      "profit_plan": 2936,
+      "profit_fact": 1584
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 9037,
+      "fact": 8666,
+      "profit_plan": 1265,
+      "profit_fact": 1213
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 5595,
+      "fact": 5803,
+      "profit_plan": 1175,
+      "profit_fact": 1335
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 6636,
+      "fact": 6527,
+      "profit_plan": 1261,
+      "profit_fact": 1501
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 13338,
+      "fact": 17200,
+      "profit_plan": 2001,
+      "profit_fact": 2580
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 11285,
+      "fact": 14097,
+      "profit_plan": 1693,
+      "profit_fact": 3101
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 4338,
+      "fact": 5775,
+      "profit_plan": 1041,
+      "profit_fact": 404
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 9147,
+      "fact": 11617,
+      "profit_plan": 1372,
+      "profit_fact": 1626
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 8968,
+      "fact": 11150,
+      "profit_plan": 2063,
+      "profit_fact": 1784
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 12492,
+      "fact": 7293,
+      "profit_plan": 1249,
+      "profit_fact": 1531
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 5804,
+      "fact": 5107,
+      "profit_plan": 1277,
+      "profit_fact": 1021
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 6725,
+      "fact": 7102,
+      "profit_plan": 1211,
+      "profit_fact": 1633
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 9013,
+      "fact": 7405,
+      "profit_plan": 2163,
+      "profit_fact": 740
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 5456,
+      "fact": 6780,
+      "profit_plan": 600,
+      "profit_fact": 475
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 10722,
+      "fact": 8619,
+      "profit_plan": 1501,
+      "profit_fact": 1034
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 9106,
+      "fact": 6879,
+      "profit_plan": 1366,
+      "profit_fact": 757
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 5475,
+      "fact": 6636,
+      "profit_plan": 876,
+      "profit_fact": 1261
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 14220,
+      "fact": 12090,
+      "profit_plan": 1991,
+      "profit_fact": 967
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 9416,
+      "fact": 7981,
+      "profit_plan": 1695,
+      "profit_fact": 1836
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 6779,
+      "fact": 6506,
+      "profit_plan": 1627,
+      "profit_fact": 1236
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 14266,
+      "fact": 18777,
+      "profit_plan": 2140,
+      "profit_fact": 4507
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 9881,
+      "fact": 13092,
+      "profit_plan": 1680,
+      "profit_fact": 1178
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 13472,
+      "fact": 17630,
+      "profit_plan": 1212,
+      "profit_fact": 1939
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 13511,
+      "fact": 8656,
+      "profit_plan": 1756,
+      "profit_fact": 1558
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 3696,
+      "fact": 2116,
+      "profit_plan": 259,
+      "profit_fact": 212
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 9615,
+      "fact": 7860,
+      "profit_plan": 1346,
+      "profit_fact": 786
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 8820,
+      "fact": 6536,
+      "profit_plan": 970,
+      "profit_fact": 1503
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 5204,
+      "fact": 5536,
+      "profit_plan": 416,
+      "profit_fact": 830
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 5616,
+      "fact": 3516,
+      "profit_plan": 730,
+      "profit_fact": 527
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 14147,
+      "fact": 12093,
+      "profit_plan": 2122,
+      "profit_fact": 846
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 5680,
+      "fact": 5126,
+      "profit_plan": 966,
+      "profit_fact": 974
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 13002,
+      "fact": 8849,
+      "profit_plan": 1820,
+      "profit_fact": 1150
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 9293,
+      "fact": 11802,
+      "profit_plan": 1487,
+      "profit_fact": 1652
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 7082,
+      "fact": 6554,
+      "profit_plan": 496,
+      "profit_fact": 1442
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 12790,
+      "fact": 9971,
+      "profit_plan": 1663,
+      "profit_fact": 1196
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 11533,
+      "fact": 12012,
+      "profit_plan": 2883,
+      "profit_fact": 2402
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 11360,
+      "fact": 8280,
+      "profit_plan": 1818,
+      "profit_fact": 662
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 8024,
+      "fact": 6375,
+      "profit_plan": 963,
+      "profit_fact": 1594
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 10932,
+      "fact": 13336,
+      "profit_plan": 1640,
+      "profit_fact": 2534
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 8601,
+      "fact": 9325,
+      "profit_plan": 860,
+      "profit_fact": 1306
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 4117,
+      "fact": 2642,
+      "profit_plan": 988,
+      "profit_fact": 370
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 6088,
+      "fact": 6356,
+      "profit_plan": 1461,
+      "profit_fact": 1462
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 13279,
+      "fact": 8460,
+      "profit_plan": 3187,
+      "profit_fact": 1438
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 12241,
+      "fact": 13583,
+      "profit_plan": 2693,
+      "profit_fact": 2445
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 10891,
+      "fact": 7111,
+      "profit_plan": 871,
+      "profit_fact": 1493
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 4440,
+      "fact": 2569,
+      "profit_plan": 755,
+      "profit_fact": 283
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 7230,
+      "fact": 4648,
+      "profit_plan": 1663,
+      "profit_fact": 883
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 4229,
+      "fact": 4851,
+      "profit_plan": 804,
+      "profit_fact": 1213
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 11576,
+      "fact": 9563,
+      "profit_plan": 2431,
+      "profit_fact": 1913
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 10815,
+      "fact": 12064,
+      "profit_plan": 2487,
+      "profit_fact": 1568
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 3941,
+      "fact": 4684,
+      "profit_plan": 828,
+      "profit_fact": 422
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 12710,
+      "fact": 15563,
+      "profit_plan": 2034,
+      "profit_fact": 1712
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 7560,
+      "fact": 6789,
+      "profit_plan": 1739,
+      "profit_fact": 1086
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 6018,
+      "fact": 6008,
+      "profit_plan": 843,
+      "profit_fact": 481
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 9730,
+      "fact": 10731,
+      "profit_plan": 1751,
+      "profit_fact": 1288
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 14435,
+      "fact": 10749,
+      "profit_plan": 1010,
+      "profit_fact": 1827
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 8583,
+      "fact": 8924,
+      "profit_plan": 2060,
+      "profit_fact": 1785
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Riga",
+      "category": "TV video",
+      "plan": 10151,
+      "fact": 6000,
+      "profit_plan": 1929,
+      "profit_fact": 1320
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 10753,
+      "fact": 11886,
+      "profit_plan": 1290,
+      "profit_fact": 1070
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 7836,
+      "fact": 10068,
+      "profit_plan": 1567,
+      "profit_fact": 1812
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 10957,
+      "fact": 9254,
+      "profit_plan": 1096,
+      "profit_fact": 2313
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 5347,
+      "fact": 6588,
+      "profit_plan": 1123,
+      "profit_fact": 1581
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 10832,
+      "fact": 9923,
+      "profit_plan": 975,
+      "profit_fact": 2084
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 5629,
+      "fact": 6902,
+      "profit_plan": 675,
+      "profit_fact": 1449
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Paris",
+      "category": "Home Appliances",
+      "plan": 12322,
+      "fact": 7351,
+      "profit_plan": 3081,
+      "profit_fact": 809
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 9827,
+      "fact": 8184,
+      "profit_plan": 1671,
+      "profit_fact": 1719
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 4444,
+      "fact": 3821,
+      "profit_plan": 844,
+      "profit_fact": 344
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 5845,
+      "fact": 5424,
+      "profit_plan": 1286,
+      "profit_fact": 1248
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 6720,
+      "fact": 7883,
+      "profit_plan": 1075,
+      "profit_fact": 1971
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 6800,
+      "fact": 6140,
+      "profit_plan": 748,
+      "profit_fact": 860
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 5672,
+      "fact": 3958,
+      "profit_plan": 1134,
+      "profit_fact": 792
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 8012,
+      "fact": 7100,
+      "profit_plan": 1683,
+      "profit_fact": 1136
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 6004,
+      "fact": 6367,
+      "profit_plan": 1261,
+      "profit_fact": 637
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Home Appliances",
+      "plan": 6483,
+      "fact": 5468,
+      "profit_plan": 519,
+      "profit_fact": 1203
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 11952,
+      "fact": 14568,
+      "profit_plan": 2032,
+      "profit_fact": 1748
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 10464,
+      "fact": 8362,
+      "profit_plan": 1779,
+      "profit_fact": 1254
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 6599,
+      "fact": 6306,
+      "profit_plan": 1188,
+      "profit_fact": 883
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 13800,
+      "fact": 15530,
+      "profit_plan": 1518,
+      "profit_fact": 1242
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 6335,
+      "fact": 3743,
+      "profit_plan": 824,
+      "profit_fact": 337
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 6440,
+      "fact": 3937,
+      "profit_plan": 837,
+      "profit_fact": 433
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 14307,
+      "fact": 11353,
+      "profit_plan": 2003,
+      "profit_fact": 2498
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 7025,
+      "fact": 7041,
+      "profit_plan": 632,
+      "profit_fact": 704
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 9958,
+      "fact": 6188,
+      "profit_plan": 1693,
+      "profit_fact": 1485
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 9942,
+      "fact": 11526,
+      "profit_plan": 2287,
+      "profit_fact": 2766
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 5338,
+      "fact": 5613,
+      "profit_plan": 1281,
+      "profit_fact": 561
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 10292,
+      "fact": 10610,
+      "profit_plan": 2058,
+      "profit_fact": 2652
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 9559,
+      "fact": 6562,
+      "profit_plan": 2103,
+      "profit_fact": 656
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Kitchen appliances",
+      "plan": 5361,
+      "fact": 6790,
+      "profit_plan": 429,
+      "profit_fact": 1358
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 10221,
+      "fact": 10413,
+      "profit_plan": 1533,
+      "profit_fact": 937
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 12313,
+      "fact": 10934,
+      "profit_plan": 862,
+      "profit_fact": 2405
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 5486,
+      "fact": 3774,
+      "profit_plan": 768,
+      "profit_fact": 453
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 12653,
+      "fact": 11142,
+      "profit_plan": 2531,
+      "profit_fact": 1783
+    },
+    {
+      "date": "01.08.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 13154,
+      "fact": 9833,
+      "profit_plan": 921,
+      "profit_fact": 2065
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 14903,
+      "fact": 18465,
+      "profit_plan": 1192,
+      "profit_fact": 4432
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 14315,
+      "fact": 16483,
+      "profit_plan": 3436,
+      "profit_fact": 2472
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Berlin",
+      "category": "TV video",
+      "plan": 10633,
+      "fact": 10935,
+      "profit_plan": 1063,
+      "profit_fact": 1968
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Paris",
+      "category": "Smartphones",
+      "plan": 4931,
+      "fact": 3496,
+      "profit_plan": 1233,
+      "profit_fact": 385
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 4173,
+      "fact": 3375,
+      "profit_plan": 1043,
+      "profit_fact": 304
+    },
+    {
+      "date": "01.05.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 9442,
+      "fact": 12354,
+      "profit_plan": 2077,
+      "profit_fact": 865
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Minsk",
+      "category": "Kitchen appliances",
+      "plan": 8094,
+      "fact": 6940,
+      "profit_plan": 1214,
+      "profit_fact": 1041
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 7911,
+      "fact": 9644,
+      "profit_plan": 1582,
+      "profit_fact": 1736
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 8356,
+      "fact": 8674,
+      "profit_plan": 1755,
+      "profit_fact": 1301
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Berlin",
+      "category": "Home Appliances",
+      "plan": 13076,
+      "fact": 14442,
+      "profit_plan": 1700,
+      "profit_fact": 2022
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 13282,
+      "fact": 14181,
+      "profit_plan": 1992,
+      "profit_fact": 1985
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "Smartphones",
+      "plan": 8331,
+      "fact": 4921,
+      "profit_plan": 1416,
+      "profit_fact": 984
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Madrid",
+      "category": "TV video",
+      "plan": 12745,
+      "fact": 16489,
+      "profit_plan": 3186,
+      "profit_fact": 2803
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 9744,
+      "fact": 11432,
+      "profit_plan": 974,
+      "profit_fact": 2286
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "Smartphones",
+      "plan": 4172,
+      "fact": 5315,
+      "profit_plan": 1001,
+      "profit_fact": 797
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 5046,
+      "fact": 4067,
+      "profit_plan": 757,
+      "profit_fact": 691
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 5704,
+      "fact": 6454,
+      "profit_plan": 913,
+      "profit_fact": 774
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 12219,
+      "fact": 11300,
+      "profit_plan": 2077,
+      "profit_fact": 1469
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 4678,
+      "fact": 4445,
+      "profit_plan": 327,
+      "profit_fact": 445
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 7026,
+      "fact": 6774,
+      "profit_plan": 1686,
+      "profit_fact": 1693
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 4787,
+      "fact": 5819,
+      "profit_plan": 1149,
+      "profit_fact": 1338
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 6784,
+      "fact": 7690,
+      "profit_plan": 1289,
+      "profit_fact": 1769
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 13754,
+      "fact": 14194,
+      "profit_plan": 1100,
+      "profit_fact": 2555
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 13268,
+      "fact": 9823,
+      "profit_plan": 2123,
+      "profit_fact": 1866
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 9588,
+      "fact": 6330,
+      "profit_plan": 671,
+      "profit_fact": 886
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 11212,
+      "fact": 13471,
+      "profit_plan": 1570,
+      "profit_fact": 2155
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Paris",
+      "category": "TV video",
+      "plan": 8742,
+      "fact": 9662,
+      "profit_plan": 1311,
+      "profit_fact": 1256
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Minsk",
+      "category": "Home Appliances",
+      "plan": 4293,
+      "fact": 3396,
+      "profit_plan": 472,
+      "profit_fact": 849
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 3428,
+      "fact": 2937,
+      "profit_plan": 480,
+      "profit_fact": 323
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Berlin",
+      "category": "Laptops and computers",
+      "plan": 13093,
+      "fact": 12824,
+      "profit_plan": 2357,
+      "profit_fact": 2693
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 6792,
+      "fact": 5689,
+      "profit_plan": 1358,
+      "profit_fact": 1365
+    },
+    {
+      "date": "01.10.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 9736,
+      "fact": 12253,
+      "profit_plan": 876,
+      "profit_fact": 2083
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Madrid",
+      "category": "Laptops and computers",
+      "plan": 4927,
+      "fact": 3666,
+      "profit_plan": 1084,
+      "profit_fact": 770
+    },
+    {
+      "date": "01.12.2023",
+      "sity": "Paris",
+      "category": "Laptops and computers",
+      "plan": 13582,
+      "fact": 14414,
+      "profit_plan": 1358,
+      "profit_fact": 2739
+    },
+    {
+      "date": "01.09.2023",
+      "sity": "Minsk",
+      "category": "Laptops and computers",
+      "plan": 14386,
+      "fact": 16109,
+      "profit_plan": 1870,
+      "profit_fact": 1772
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Smartphones",
+      "plan": 5581,
+      "fact": 5774,
+      "profit_plan": 949,
+      "profit_fact": 1443
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Madrid",
+      "category": "Home Appliances",
+      "plan": 10308,
+      "fact": 8938,
+      "profit_plan": 1752,
+      "profit_fact": 894
+    },
+    {
+      "date": "01.06.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 3911,
+      "fact": 2480,
+      "profit_plan": 821,
+      "profit_fact": 248
+    },
+    {
+      "date": "01.03.2023",
+      "sity": "Riga",
+      "category": "Laptops and computers",
+      "plan": 11088,
+      "fact": 8302,
+      "profit_plan": 1663,
+      "profit_fact": 664
+    },
+    {
+      "date": "01.02.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 12829,
+      "fact": 11579,
+      "profit_plan": 1796,
+      "profit_fact": 2316
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Minsk",
+      "category": "TV video",
+      "plan": 6210,
+      "fact": 8121,
+      "profit_plan": 1366,
+      "profit_fact": 650
+    },
+    {
+      "date": "01.01.2023",
+      "sity": "Paris",
+      "category": "Kitchen appliances",
+      "plan": 5171,
+      "fact": 5896,
+      "profit_plan": 362,
+      "profit_fact": 1356
+    },
+    {
+      "date": "01.04.2023",
+      "sity": "Berlin",
+      "category": "Smartphones",
+      "plan": 10275,
+      "fact": 7251,
+      "profit_plan": 2466,
+      "profit_fact": 870
+    },
+    {
+      "date": "01.07.2023",
+      "sity": "Madrid",
+      "category": "Kitchen appliances",
+      "plan": 11587,
+      "fact": 7445,
+      "profit_plan": 927,
+      "profit_fact": 745
+    },
+    {
+      "date": "01.11.2023",
+      "sity": "Riga",
+      "category": "Kitchen appliances",
+      "plan": 6051,
+      "fact": 4246,
+      "profit_plan": 484,
+      "profit_fact": 509
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 3251,
+      "date": "27.02.2023",
+      "manager": "Marian Frazier",
+      "sum": 1039,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3252,
+      "date": "15.04.2023",
+      "manager": "Patricia Russell",
+      "sum": 909,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3253,
+      "date": "19.11.2023",
+      "manager": "Marian Frazier",
+      "sum": 1858,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3254,
+      "date": "23.04.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1490,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3255,
+      "date": "20.04.2023",
+      "manager": "Harry Robinson",
+      "sum": 637,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3256,
+      "date": "28.06.2023",
+      "manager": "Harry Robinson",
+      "sum": 1616,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3257,
+      "date": "22.09.2023",
+      "manager": "Harry Robinson",
+      "sum": 1645,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3258,
+      "date": "23.03.2023",
+      "manager": "Harry Robinson",
+      "sum": 2713,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3259,
+      "date": "15.02.2023",
+      "manager": "Carolyn Lane",
+      "sum": 2057,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3260,
+      "date": "21.11.2023",
+      "manager": "Harry Robinson",
+      "sum": 1100,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3261,
+      "date": "18.06.2023",
+      "manager": "Harry Robinson",
+      "sum": 543,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3262,
+      "date": "10.07.2023",
+      "manager": "Brian Jones",
+      "sum": 2481,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3263,
+      "date": "11.06.2023",
+      "manager": "Carl Williams",
+      "sum": 1436,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3264,
+      "date": "09.12.2023",
+      "manager": "Harry Robinson",
+      "sum": 452,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3265,
+      "date": "27.07.2023",
+      "manager": "Brian Jones",
+      "sum": 1501,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3266,
+      "date": "09.07.2023",
+      "manager": "Patricia Russell",
+      "sum": 1974,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3267,
+      "date": "23.11.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1353,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3268,
+      "date": "22.10.2023",
+      "manager": "Patricia Russell",
+      "sum": 867,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3269,
+      "date": "19.07.2023",
+      "manager": "Carl Williams",
+      "sum": 1453,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3270,
+      "date": "20.10.2023",
+      "manager": "Harry Robinson",
+      "sum": 1976,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3271,
+      "date": "21.10.2023",
+      "manager": "Marian Frazier",
+      "sum": 1467,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3272,
+      "date": "23.07.2023",
+      "manager": "Marian Frazier",
+      "sum": 1554,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3273,
+      "date": "17.07.2023",
+      "manager": "Patricia Russell",
+      "sum": 359,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3274,
+      "date": "12.12.2023",
+      "manager": "Harry Robinson",
+      "sum": 2360,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3275,
+      "date": "19.05.2023",
+      "manager": "Marian Frazier",
+      "sum": 1362,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3276,
+      "date": "11.05.2023",
+      "manager": "Brian Jones",
+      "sum": 961,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3277,
+      "date": "03.03.2023",
+      "manager": "Marian Frazier",
+      "sum": 2157,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3278,
+      "date": "06.11.2023",
+      "manager": "Marian Frazier",
+      "sum": 1236,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3279,
+      "date": "05.08.2023",
+      "manager": "Harry Robinson",
+      "sum": 1663,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3280,
+      "date": "10.07.2023",
+      "manager": "Brian Jones",
+      "sum": 1659,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3281,
+      "date": "18.07.2023",
+      "manager": "Brian Jones",
+      "sum": 2573,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3282,
+      "date": "04.01.2023",
+      "manager": "Harry Robinson",
+      "sum": 2716,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3283,
+      "date": "08.11.2023",
+      "manager": "Harry Robinson",
+      "sum": 1894,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3284,
+      "date": "07.04.2023",
+      "manager": "Harry Robinson",
+      "sum": 2441,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3285,
+      "date": "28.05.2023",
+      "manager": "Patricia Russell",
+      "sum": 2400,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3286,
+      "date": "17.07.2023",
+      "manager": "Brian Jones",
+      "sum": 1932,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3287,
+      "date": "25.05.2023",
+      "manager": "Carolyn Lane",
+      "sum": 486,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3288,
+      "date": "23.07.2023",
+      "manager": "Patricia Russell",
+      "sum": 925,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3289,
+      "date": "04.04.2023",
+      "manager": "Brian Jones",
+      "sum": 1823,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3290,
+      "date": "09.10.2023",
+      "manager": "Brian Jones",
+      "sum": 1948,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3291,
+      "date": "15.10.2023",
+      "manager": "Harry Robinson",
+      "sum": 1475,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3292,
+      "date": "07.06.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1079,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3293,
+      "date": "01.07.2023",
+      "manager": "Patricia Russell",
+      "sum": 920,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3294,
+      "date": "25.02.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1083,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3295,
+      "date": "23.06.2023",
+      "manager": "Patricia Russell",
+      "sum": 1539,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3296,
+      "date": "14.01.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1108,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3297,
+      "date": "17.05.2023",
+      "manager": "Marian Frazier",
+      "sum": 1307,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3298,
+      "date": "27.01.2023",
+      "manager": "Brian Jones",
+      "sum": 2248,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3299,
+      "date": "01.09.2023",
+      "manager": "Patricia Russell",
+      "sum": 2556,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3300,
+      "date": "05.07.2023",
+      "manager": "Marian Frazier",
+      "sum": 1586,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3301,
+      "date": "07.01.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1271,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3302,
+      "date": "05.11.2023",
+      "manager": "Patricia Russell",
+      "sum": 2008,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3303,
+      "date": "25.04.2023",
+      "manager": "Carl Williams",
+      "sum": 1673,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3304,
+      "date": "24.02.2023",
+      "manager": "Harry Robinson",
+      "sum": 980,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3305,
+      "date": "11.03.2023",
+      "manager": "Harry Robinson",
+      "sum": 1864,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3306,
+      "date": "27.03.2023",
+      "manager": "Marian Frazier",
+      "sum": 919,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3307,
+      "date": "18.08.2023",
+      "manager": "Carolyn Lane",
+      "sum": 948,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3308,
+      "date": "21.06.2023",
+      "manager": "Carolyn Lane",
+      "sum": 486,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3309,
+      "date": "08.07.2023",
+      "manager": "Carl Williams",
+      "sum": 1027,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3310,
+      "date": "13.02.2023",
+      "manager": "Brian Jones",
+      "sum": 2527,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3311,
+      "date": "02.08.2023",
+      "manager": "Carolyn Lane",
+      "sum": 1480,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3312,
+      "date": "28.05.2023",
+      "manager": "Marian Frazier",
+      "sum": 1830,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3313,
+      "date": "06.02.2023",
+      "manager": "Carl Williams",
+      "sum": 1307,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3314,
+      "date": "22.07.2023",
+      "manager": "Carolyn Lane",
+      "sum": 966,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3315,
+      "date": "02.04.2023",
+      "manager": "Patricia Russell",
+      "sum": 1669,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3316,
+      "date": "16.10.2023",
+      "manager": "Brian Jones",
+      "sum": 2308,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3317,
+      "date": "01.11.2023",
+      "manager": "Brian Jones",
+      "sum": 589,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3318,
+      "date": "11.02.2023",
+      "manager": "Carolyn Lane",
+      "sum": 719,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3319,
+      "date": "15.07.2023",
+      "manager": "Brian Jones",
+      "sum": 2278,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3320,
+      "date": "13.12.2023",
+      "manager": "Marian Frazier",
+      "sum": 2248,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3321,
+      "date": "18.04.2023",
+      "manager": "Carolyn Lane",
+      "sum": 2305,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3322,
+      "date": "13.01.2023",
+      "manager": "Marian Frazier",
+      "sum": 2641,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3323,
+      "date": "18.12.2023",
+      "manager": "Brian Jones",
+      "sum": 1102,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3324,
+      "date": "24.07.2023",
+      "manager": "Harry Robinson",
+      "sum": 2004,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3325,
+      "date": "13.12.2023",
+      "manager": "Harry Robinson",
+      "sum": 2270,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3326,
+      "date": "14.07.2023",
+      "manager": "Brian Jones",
+      "sum": 2779,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3327,
+      "date": "11.09.2023",
+      "manager": "Carolyn Lane",
+      "sum": 844,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3328,
+      "date": "19.08.2023",
+      "manager": "Patricia Russell",
+      "sum": 1193,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3329,
+      "date": "16.03.2023",
+      "manager": "Harry Robinson",
+      "sum": 2249,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3330,
+      "date": "12.06.2023",
+      "manager": "Carl Williams",
+      "sum": 2450,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3331,
+      "date": "09.02.2023",
+      "manager": "Carolyn Lane",
+      "sum": 957,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3332,
+      "date": "24.08.2023",
+      "manager": "Harry Robinson",
+      "sum": 1920,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3333,
+      "date": "20.10.2023",
+      "manager": "Carolyn Lane",
+      "sum": 374,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3334,
+      "date": "25.09.2023",
+      "manager": "Patricia Russell",
+      "sum": 957,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3335,
+      "date": "22.07.2023",
+      "manager": "Harry Robinson",
+      "sum": 1141,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3336,
+      "date": "17.08.2023",
+      "manager": "Harry Robinson",
+      "sum": 1992,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3337,
+      "date": "05.01.2023",
+      "manager": "Harry Robinson",
+      "sum": 398,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3338,
+      "date": "24.01.2023",
+      "manager": "Brian Jones",
+      "sum": 2223,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3339,
+      "date": "27.10.2023",
+      "manager": "Patricia Russell",
+      "sum": 2492,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3340,
+      "date": "26.02.2023",
+      "manager": "Carolyn Lane",
+      "sum": 2374,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3341,
+      "date": "22.09.2023",
+      "manager": "Patricia Russell",
+      "sum": 2767,
+      "status": "Paid"
+    },
+    {
+      "order_id": 3342,
+      "date": "07.07.2023",
+      "manager": "Harry Robinson",
+      "sum": 482,
+      "status": "Sent"
+    },
+    {
+      "order_id": 3343,
+      "date": "18.01.2023",
+      "manager": "Patricia Russell",
+      "sum": 1593,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3344,
+      "date": "14.08.2023",
+      "manager": "Carolyn Lane",
+      "sum": 746,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3345,
+      "date": "07.04.2023",
+      "manager": "Marian Frazier",
+      "sum": 1894,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3346,
+      "date": "21.12.2023",
+      "manager": "Patricia Russell",
+      "sum": 2087,
+      "status": "Preparing"
+    },
+    {
+      "order_id": 3347,
+      "date": "16.01.2023",
+      "manager": "Patricia Russell",
+      "sum": 1160,
+      "status": "Delivered"
+    },
+    {
+      "order_id": 3348,
+      "date": "19.08.2023",
+      "manager": "Patricia Russell",
+      "sum": 1061,
+      "status": "Waiting for payment"
+    },
+    {
+      "order_id": 3349,
+      "date": "06.08.2023",
+      "manager": "Patricia Russell",
+      "sum": 2563,
+      "status": "Preparing"
+    }
+  ]
+}
