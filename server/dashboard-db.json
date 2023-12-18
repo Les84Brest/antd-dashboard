@@ -1,4290 +1,4696 @@
 {
-  "sales": [
+  "managers": [
     {
-      "date": "01.05.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 10225,
-      "fact": 8331,
-      "profit_plan": 1636,
-      "profit_fact": 916
+      "id": 1,
+      "manager_name": "Brian Jones",
+      "phone": 1235624813,
+      "email": "br.jones@company.com"
     },
     {
-      "date": "01.05.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 11167,
-      "fact": 9492,
-      "profit_plan": 893,
-      "profit_fact": 1139
+      "id": 2,
+      "manager_name": "Patricia Russell",
+      "phone": 1235872928,
+      "email": "patric@company.com"
     },
     {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 8809,
-      "fact": 10946,
-      "profit_plan": 1674,
-      "profit_fact": 1313
+      "id": 3,
+      "manager_name": "Harry Robinson",
+      "phone": 1236062423,
+      "email": "robinson@company.com"
     },
     {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 7106,
-      "fact": 7569,
-      "profit_plan": 1421,
-      "profit_fact": 757
+      "id": 4,
+      "manager_name": "Carolyn Lane",
+      "phone": 1235965749,
+      "email": "carolin@company.com"
     },
     {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 11868,
-      "fact": 14747,
-      "profit_plan": 1187,
-      "profit_fact": 3244
+      "id": 5,
+      "manager_name": "Marian Frazier",
+      "phone": 1235483357,
+      "email": "marian.fr@company.com"
     },
     {
-      "date": "01.09.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 9009,
-      "fact": 5247,
-      "profit_plan": 1802,
-      "profit_fact": 1312
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 6909,
-      "fact": 6786,
-      "profit_plan": 1244,
-      "profit_fact": 1222
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 14879,
-      "fact": 14166,
-      "profit_plan": 2529,
-      "profit_fact": 2408
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 7030,
-      "fact": 5472,
-      "profit_plan": 1406,
-      "profit_fact": 383
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 11721,
-      "fact": 8538,
-      "profit_plan": 1524,
-      "profit_fact": 1281
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 14315,
-      "fact": 7962,
-      "profit_plan": 2147,
-      "profit_fact": 1911
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 6934,
-      "fact": 8426,
-      "profit_plan": 1734,
-      "profit_fact": 1854
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 8065,
-      "fact": 9385,
-      "profit_plan": 1210,
-      "profit_fact": 938
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 9814,
-      "fact": 5891,
-      "profit_plan": 2355,
-      "profit_fact": 1178
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 8853,
-      "fact": 11205,
-      "profit_plan": 2213,
-      "profit_fact": 896
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 12928,
-      "fact": 11681,
-      "profit_plan": 905,
-      "profit_fact": 818
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 14089,
-      "fact": 10510,
-      "profit_plan": 986,
-      "profit_fact": 1051
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 10265,
-      "fact": 9132,
-      "profit_plan": 1848,
-      "profit_fact": 2009
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 9272,
-      "fact": 6871,
-      "profit_plan": 2318,
-      "profit_fact": 1031
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 8495,
-      "fact": 9333,
-      "profit_plan": 1359,
-      "profit_fact": 1773
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 11919,
-      "fact": 15164,
-      "profit_plan": 1549,
-      "profit_fact": 3033
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 12571,
-      "fact": 11135,
-      "profit_plan": 1760,
-      "profit_fact": 2338
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 5921,
-      "fact": 6108,
-      "profit_plan": 829,
-      "profit_fact": 977
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 8105,
-      "fact": 5923,
-      "profit_plan": 1135,
-      "profit_fact": 1303
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 4972,
-      "fact": 4315,
-      "profit_plan": 845,
-      "profit_fact": 388
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 11146,
-      "fact": 7989,
-      "profit_plan": 2006,
-      "profit_fact": 1278
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 14870,
-      "fact": 19101,
-      "profit_plan": 1338,
-      "profit_fact": 4393
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 10394,
-      "fact": 7144,
-      "profit_plan": 2079,
-      "profit_fact": 714
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 13694,
-      "fact": 10572,
-      "profit_plan": 2739,
-      "profit_fact": 2326
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 7256,
-      "fact": 9419,
-      "profit_plan": 943,
-      "profit_fact": 1507
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 7612,
-      "fact": 5985,
-      "profit_plan": 990,
-      "profit_fact": 658
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 10499,
-      "fact": 8579,
-      "profit_plan": 840,
-      "profit_fact": 1544
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 13873,
-      "fact": 17761,
-      "profit_plan": 2081,
-      "profit_fact": 1776
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 5123,
-      "fact": 6638,
-      "profit_plan": 768,
-      "profit_fact": 1659
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 5636,
-      "fact": 4414,
-      "profit_plan": 564,
-      "profit_fact": 353
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 5483,
-      "fact": 3687,
-      "profit_plan": 658,
-      "profit_fact": 553
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 14479,
-      "fact": 10200,
-      "profit_plan": 1593,
-      "profit_fact": 1734
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 9866,
-      "fact": 6676,
-      "profit_plan": 2269,
-      "profit_fact": 1268
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 3812,
-      "fact": 4523,
-      "profit_plan": 801,
-      "profit_fact": 769
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 3815,
-      "fact": 2843,
-      "profit_plan": 763,
-      "profit_fact": 682
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 11685,
-      "fact": 9506,
-      "profit_plan": 1285,
-      "profit_fact": 1901
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 10811,
-      "fact": 9105,
-      "profit_plan": 1946,
-      "profit_fact": 1002
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 9254,
-      "fact": 12166,
-      "profit_plan": 1203,
-      "profit_fact": 1460
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 4986,
-      "fact": 4895,
-      "profit_plan": 848,
-      "profit_fact": 685
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 5284,
-      "fact": 6910,
-      "profit_plan": 476,
-      "profit_fact": 829
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 9634,
-      "fact": 10250,
-      "profit_plan": 674,
-      "profit_fact": 1025
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 12751,
-      "fact": 14715,
-      "profit_plan": 2423,
-      "profit_fact": 3679
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 9675,
-      "fact": 12599,
-      "profit_plan": 2225,
-      "profit_fact": 1134
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 13022,
-      "fact": 16784,
-      "profit_plan": 2474,
-      "profit_fact": 4028
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 11172,
-      "fact": 13100,
-      "profit_plan": 1117,
-      "profit_fact": 1703
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 8575,
-      "fact": 7289,
-      "profit_plan": 1887,
-      "profit_fact": 1020
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 3637,
-      "fact": 2056,
-      "profit_plan": 873,
-      "profit_fact": 247
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 3504,
-      "fact": 2590,
-      "profit_plan": 385,
-      "profit_fact": 311
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 3558,
-      "fact": 3048,
-      "profit_plan": 783,
-      "profit_fact": 640
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 5140,
-      "fact": 6216,
-      "profit_plan": 1131,
-      "profit_fact": 1181
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 9128,
-      "fact": 8511,
-      "profit_plan": 730,
-      "profit_fact": 681
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 6368,
-      "fact": 4614,
-      "profit_plan": 509,
-      "profit_fact": 1107
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 9451,
-      "fact": 10094,
-      "profit_plan": 2268,
-      "profit_fact": 908
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 13893,
-      "fact": 18184,
-      "profit_plan": 1250,
-      "profit_fact": 4364
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 14392,
-      "fact": 14314,
-      "profit_plan": 2159,
-      "profit_fact": 2863
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 3674,
-      "fact": 3082,
-      "profit_plan": 735,
-      "profit_fact": 493
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 10624,
-      "fact": 7202,
-      "profit_plan": 1700,
-      "profit_fact": 1440
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 9654,
-      "fact": 11801,
-      "profit_plan": 1545,
-      "profit_fact": 2832
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 9363,
-      "fact": 12467,
-      "profit_plan": 749,
-      "profit_fact": 2867
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 4460,
-      "fact": 4767,
-      "profit_plan": 624,
-      "profit_fact": 572
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 10608,
-      "fact": 8605,
-      "profit_plan": 2228,
-      "profit_fact": 2065
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 9542,
-      "fact": 8959,
-      "profit_plan": 1908,
-      "profit_fact": 1523
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 11702,
-      "fact": 12301,
-      "profit_plan": 1638,
-      "profit_fact": 2829
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 6527,
-      "fact": 5995,
-      "profit_plan": 1436,
-      "profit_fact": 1379
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 7803,
-      "fact": 6478,
-      "profit_plan": 702,
-      "profit_fact": 453
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 5816,
-      "fact": 3745,
-      "profit_plan": 1280,
-      "profit_fact": 599
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 8307,
-      "fact": 10743,
-      "profit_plan": 831,
-      "profit_fact": 1611
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 11865,
-      "fact": 12274,
-      "profit_plan": 2136,
-      "profit_fact": 3068
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 6368,
-      "fact": 7222,
-      "profit_plan": 764,
-      "profit_fact": 1011
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 8319,
-      "fact": 4753,
-      "profit_plan": 1497,
-      "profit_fact": 998
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 11371,
-      "fact": 9089,
-      "profit_plan": 2274,
-      "profit_fact": 909
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 12522,
-      "fact": 15007,
-      "profit_plan": 3005,
-      "profit_fact": 2851
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 13666,
-      "fact": 17672,
-      "profit_plan": 1640,
-      "profit_fact": 1767
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 8932,
-      "fact": 8150,
-      "profit_plan": 1161,
-      "profit_fact": 896
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 10534,
-      "fact": 9454,
-      "profit_plan": 1791,
-      "profit_fact": 2269
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 13799,
-      "fact": 11232,
-      "profit_plan": 1380,
-      "profit_fact": 786
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 9819,
-      "fact": 9998,
-      "profit_plan": 1178,
-      "profit_fact": 1100
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 5546,
-      "fact": 3331,
-      "profit_plan": 1109,
-      "profit_fact": 666
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 14818,
-      "fact": 17069,
-      "profit_plan": 2667,
-      "profit_fact": 2390
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 9310,
-      "fact": 10743,
-      "profit_plan": 1024,
-      "profit_fact": 2471
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 10121,
-      "fact": 6323,
-      "profit_plan": 2530,
-      "profit_fact": 1454
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 5777,
-      "fact": 3476,
-      "profit_plan": 982,
-      "profit_fact": 869
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 5152,
-      "fact": 5058,
-      "profit_plan": 824,
-      "profit_fact": 708
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 11292,
-      "fact": 14800,
-      "profit_plan": 1242,
-      "profit_fact": 2664
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 12904,
-      "fact": 16967,
-      "profit_plan": 1548,
-      "profit_fact": 1866
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 13634,
-      "fact": 10029,
-      "profit_plan": 1636,
-      "profit_fact": 1003
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 4815,
-      "fact": 3363,
-      "profit_plan": 1011,
-      "profit_fact": 471
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 8947,
-      "fact": 7004,
-      "profit_plan": 805,
-      "profit_fact": 700
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 4190,
-      "fact": 5146,
-      "profit_plan": 1006,
-      "profit_fact": 1235
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 11119,
-      "fact": 14253,
-      "profit_plan": 2113,
-      "profit_fact": 2138
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 6428,
-      "fact": 5947,
-      "profit_plan": 1157,
-      "profit_fact": 595
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 13708,
-      "fact": 12873,
-      "profit_plan": 2742,
-      "profit_fact": 1159
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 12210,
-      "fact": 13694,
-      "profit_plan": 1587,
-      "profit_fact": 3287
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 9898,
-      "fact": 7560,
-      "profit_plan": 1683,
-      "profit_fact": 1814
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 7204,
-      "fact": 7832,
-      "profit_plan": 1441,
-      "profit_fact": 627
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 6380,
-      "fact": 3557,
-      "profit_plan": 1276,
-      "profit_fact": 498
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 8080,
-      "fact": 5029,
-      "profit_plan": 566,
-      "profit_fact": 453
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 14941,
-      "fact": 15612,
-      "profit_plan": 1793,
-      "profit_fact": 3591
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 3451,
-      "fact": 3740,
-      "profit_plan": 656,
-      "profit_fact": 785
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 7862,
-      "fact": 8038,
-      "profit_plan": 708,
-      "profit_fact": 804
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 5635,
-      "fact": 7170,
-      "profit_plan": 958,
-      "profit_fact": 932
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 7749,
-      "fact": 5923,
-      "profit_plan": 1472,
-      "profit_fact": 888
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 13673,
-      "fact": 7636,
-      "profit_plan": 2735,
-      "profit_fact": 534
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 14468,
-      "fact": 9867,
-      "profit_plan": 2315,
-      "profit_fact": 987
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 11284,
-      "fact": 7644,
-      "profit_plan": 1580,
-      "profit_fact": 1911
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 14393,
-      "fact": 15279,
-      "profit_plan": 3166,
-      "profit_fact": 1070
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 7371,
-      "fact": 6216,
-      "profit_plan": 1769,
-      "profit_fact": 1181
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 7801,
-      "fact": 5215,
-      "profit_plan": 1170,
-      "profit_fact": 887
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 5887,
-      "fact": 4195,
-      "profit_plan": 530,
-      "profit_fact": 713
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 7962,
-      "fact": 7590,
-      "profit_plan": 1433,
-      "profit_fact": 1063
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 8257,
-      "fact": 10850,
-      "profit_plan": 1899,
-      "profit_fact": 1193
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 6090,
-      "fact": 7608,
-      "profit_plan": 974,
-      "profit_fact": 1293
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 9657,
-      "fact": 8147,
-      "profit_plan": 1062,
-      "profit_fact": 570
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 11494,
-      "fact": 10922,
-      "profit_plan": 1379,
-      "profit_fact": 1201
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 13255,
-      "fact": 7657,
-      "profit_plan": 2784,
-      "profit_fact": 1914
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 11445,
-      "fact": 12620,
-      "profit_plan": 2747,
-      "profit_fact": 2019
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 14356,
-      "fact": 18409,
-      "profit_plan": 1723,
-      "profit_fact": 4234
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 10876,
-      "fact": 8323,
-      "profit_plan": 979,
-      "profit_fact": 1248
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 3819,
-      "fact": 2271,
-      "profit_plan": 306,
-      "profit_fact": 295
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 6391,
-      "fact": 7686,
-      "profit_plan": 1150,
-      "profit_fact": 1922
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 7237,
-      "fact": 5224,
-      "profit_plan": 1303,
-      "profit_fact": 1097
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 12646,
-      "fact": 11832,
-      "profit_plan": 2023,
-      "profit_fact": 2248
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 12430,
-      "fact": 14924,
-      "profit_plan": 2486,
-      "profit_fact": 3433
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 9085,
-      "fact": 6570,
-      "profit_plan": 1454,
-      "profit_fact": 986
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 7144,
-      "fact": 6026,
-      "profit_plan": 1500,
-      "profit_fact": 663
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 4196,
-      "fact": 3584,
-      "profit_plan": 797,
-      "profit_fact": 394
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 9393,
-      "fact": 8223,
-      "profit_plan": 2348,
-      "profit_fact": 987
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 7743,
-      "fact": 9223,
-      "profit_plan": 1858,
-      "profit_fact": 1752
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 14798,
-      "fact": 14070,
-      "profit_plan": 1036,
-      "profit_fact": 1126
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 10457,
-      "fact": 10139,
-      "profit_plan": 1569,
-      "profit_fact": 2129
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 6931,
-      "fact": 4501,
-      "profit_plan": 1663,
-      "profit_fact": 990
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 4512,
-      "fact": 5629,
-      "profit_plan": 857,
-      "profit_fact": 394
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 11377,
-      "fact": 8849,
-      "profit_plan": 1707,
-      "profit_fact": 2212
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 7807,
-      "fact": 7869,
-      "profit_plan": 546,
-      "profit_fact": 787
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 4304,
-      "fact": 3797,
-      "profit_plan": 990,
-      "profit_fact": 380
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 14806,
-      "fact": 12366,
-      "profit_plan": 2813,
-      "profit_fact": 3092
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 13550,
-      "fact": 12501,
-      "profit_plan": 1084,
-      "profit_fact": 1125
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 13160,
-      "fact": 15498,
-      "profit_plan": 1579,
-      "profit_fact": 3255
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 3962,
-      "fact": 3289,
-      "profit_plan": 594,
-      "profit_fact": 691
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 12412,
-      "fact": 14427,
-      "profit_plan": 1614,
-      "profit_fact": 2453
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 13496,
-      "fact": 15916,
-      "profit_plan": 2294,
-      "profit_fact": 1910
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 14195,
-      "fact": 16438,
-      "profit_plan": 3123,
-      "profit_fact": 3288
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 9614,
-      "fact": 8595,
-      "profit_plan": 1154,
-      "profit_fact": 1117
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 3460,
-      "fact": 4598,
-      "profit_plan": 277,
-      "profit_fact": 920
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 7458,
-      "fact": 4351,
-      "profit_plan": 1268,
-      "profit_fact": 1044
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 14387,
-      "fact": 17184,
-      "profit_plan": 2734,
-      "profit_fact": 2921
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 6332,
-      "fact": 4019,
-      "profit_plan": 1456,
-      "profit_fact": 442
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 10326,
-      "fact": 11549,
-      "profit_plan": 826,
-      "profit_fact": 1155
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 5818,
-      "fact": 4773,
-      "profit_plan": 698,
-      "profit_fact": 621
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 5349,
-      "fact": 6418,
-      "profit_plan": 428,
-      "profit_fact": 1476
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 11038,
-      "fact": 8401,
-      "profit_plan": 2097,
-      "profit_fact": 2016
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 13214,
-      "fact": 15431,
-      "profit_plan": 1586,
-      "profit_fact": 3549
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 9709,
-      "fact": 12896,
-      "profit_plan": 1068,
-      "profit_fact": 2708
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 9540,
-      "fact": 7705,
-      "profit_plan": 1813,
-      "profit_fact": 1849
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 6028,
-      "fact": 3708,
-      "profit_plan": 1447,
-      "profit_fact": 260
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 13610,
-      "fact": 13460,
-      "profit_plan": 2178,
-      "profit_fact": 1481
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 12529,
-      "fact": 15981,
-      "profit_plan": 2631,
-      "profit_fact": 2397
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 7609,
-      "fact": 7423,
-      "profit_plan": 1065,
-      "profit_fact": 1336
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 5232,
-      "fact": 6030,
-      "profit_plan": 523,
-      "profit_fact": 1146
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 10607,
-      "fact": 10468,
-      "profit_plan": 1273,
-      "profit_fact": 1884
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 10753,
-      "fact": 12808,
-      "profit_plan": 2043,
-      "profit_fact": 2562
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 4155,
-      "fact": 2649,
-      "profit_plan": 291,
-      "profit_fact": 318
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 14445,
-      "fact": 10994,
-      "profit_plan": 3467,
-      "profit_fact": 1209
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 11806,
-      "fact": 13835,
-      "profit_plan": 2243,
-      "profit_fact": 2629
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 9416,
-      "fact": 7329,
-      "profit_plan": 2072,
-      "profit_fact": 586
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 8441,
-      "fact": 10019,
-      "profit_plan": 760,
-      "profit_fact": 2204
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 11364,
-      "fact": 9745,
-      "profit_plan": 1818,
-      "profit_fact": 1657
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 6477,
-      "fact": 6623,
-      "profit_plan": 1231,
-      "profit_fact": 464
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 13323,
-      "fact": 9730,
-      "profit_plan": 3064,
-      "profit_fact": 2141
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 9359,
-      "fact": 9321,
-      "profit_plan": 1591,
-      "profit_fact": 1864
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 13579,
-      "fact": 13878,
-      "profit_plan": 3123,
-      "profit_fact": 3331
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 10916,
-      "fact": 7530,
-      "profit_plan": 1856,
-      "profit_fact": 1431
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 5588,
-      "fact": 5143,
-      "profit_plan": 838,
-      "profit_fact": 1080
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 6688,
-      "fact": 5062,
-      "profit_plan": 1271,
-      "profit_fact": 1164
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 9797,
-      "fact": 10198,
-      "profit_plan": 1078,
-      "profit_fact": 1632
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 11958,
-      "fact": 6772,
-      "profit_plan": 2870,
-      "profit_fact": 1016
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 12175,
-      "fact": 14582,
-      "profit_plan": 3044,
-      "profit_fact": 3500
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 10764,
-      "fact": 12411,
-      "profit_plan": 1507,
-      "profit_fact": 2730
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 7949,
-      "fact": 9403,
-      "profit_plan": 556,
-      "profit_fact": 2257
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 7747,
-      "fact": 9071,
-      "profit_plan": 1704,
-      "profit_fact": 907
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 8415,
-      "fact": 10654,
-      "profit_plan": 1683,
-      "profit_fact": 1705
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 14421,
-      "fact": 16357,
-      "profit_plan": 1298,
-      "profit_fact": 2617
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 6660,
-      "fact": 7387,
-      "profit_plan": 1199,
-      "profit_fact": 1847
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 6009,
-      "fact": 7246,
-      "profit_plan": 1142,
-      "profit_fact": 652
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 9836,
-      "fact": 8751,
-      "profit_plan": 1082,
-      "profit_fact": 1663
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 5352,
-      "fact": 3494,
-      "profit_plan": 428,
-      "profit_fact": 279
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 8909,
-      "fact": 7067,
-      "profit_plan": 1871,
-      "profit_fact": 1343
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 6273,
-      "fact": 6856,
-      "profit_plan": 1568,
-      "profit_fact": 1166
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 5386,
-      "fact": 3843,
-      "profit_plan": 1023,
-      "profit_fact": 576
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 6979,
-      "fact": 6958,
-      "profit_plan": 1535,
-      "profit_fact": 905
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 4785,
-      "fact": 2826,
-      "profit_plan": 1053,
-      "profit_fact": 396
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 8328,
-      "fact": 8774,
-      "profit_plan": 833,
-      "profit_fact": 965
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 10425,
-      "fact": 12705,
-      "profit_plan": 1668,
-      "profit_fact": 2541
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 4938,
-      "fact": 3107,
-      "profit_plan": 1185,
-      "profit_fact": 715
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 8264,
-      "fact": 6735,
-      "profit_plan": 1983,
-      "profit_fact": 943
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 13315,
-      "fact": 8726,
-      "profit_plan": 3196,
-      "profit_fact": 698
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 5892,
-      "fact": 7600,
-      "profit_plan": 589,
-      "profit_fact": 1064
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 7884,
-      "fact": 6301,
-      "profit_plan": 867,
-      "profit_fact": 1260
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 3729,
-      "fact": 2344,
-      "profit_plan": 895,
-      "profit_fact": 445
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 3361,
-      "fact": 2735,
-      "profit_plan": 235,
-      "profit_fact": 301
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 6792,
-      "fact": 5339,
-      "profit_plan": 475,
-      "profit_fact": 961
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 13020,
-      "fact": 12129,
-      "profit_plan": 2995,
-      "profit_fact": 2183
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 12701,
-      "fact": 13645,
-      "profit_plan": 1905,
-      "profit_fact": 2729
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 12345,
-      "fact": 15686,
-      "profit_plan": 3086,
-      "profit_fact": 2353
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 13351,
-      "fact": 12430,
-      "profit_plan": 3204,
-      "profit_fact": 2237
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 6859,
-      "fact": 6896,
-      "profit_plan": 1715,
-      "profit_fact": 1586
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 14108,
-      "fact": 17082,
-      "profit_plan": 1411,
-      "profit_fact": 2221
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 14034,
-      "fact": 10131,
-      "profit_plan": 2526,
-      "profit_fact": 2229
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 14213,
-      "fact": 14979,
-      "profit_plan": 1990,
-      "profit_fact": 3445
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 8150,
-      "fact": 5957,
-      "profit_plan": 1793,
-      "profit_fact": 536
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 14605,
-      "fact": 14878,
-      "profit_plan": 2629,
-      "profit_fact": 2380
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 10680,
-      "fact": 10513,
-      "profit_plan": 961,
-      "profit_fact": 1051
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 11650,
-      "fact": 10224,
-      "profit_plan": 2563,
-      "profit_fact": 920
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 8794,
-      "fact": 5436,
-      "profit_plan": 1055,
-      "profit_fact": 598
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 4225,
-      "fact": 2420,
-      "profit_plan": 423,
-      "profit_fact": 605
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 6566,
-      "fact": 6828,
-      "profit_plan": 1576,
-      "profit_fact": 1707
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 7886,
-      "fact": 5751,
-      "profit_plan": 1341,
-      "profit_fact": 1208
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 4991,
-      "fact": 5696,
-      "profit_plan": 1048,
-      "profit_fact": 1310
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 11711,
-      "fact": 6873,
-      "profit_plan": 1874,
-      "profit_fact": 1100
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 12588,
-      "fact": 16584,
-      "profit_plan": 1762,
-      "profit_fact": 4146
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 5978,
-      "fact": 3754,
-      "profit_plan": 1136,
-      "profit_fact": 863
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 11330,
-      "fact": 14054,
-      "profit_plan": 2719,
-      "profit_fact": 2108
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 4062,
-      "fact": 4320,
-      "profit_plan": 609,
-      "profit_fact": 691
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 12730,
-      "fact": 13832,
-      "profit_plan": 2546,
-      "profit_fact": 2905
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 10573,
-      "fact": 13644,
-      "profit_plan": 1586,
-      "profit_fact": 1910
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 9733,
-      "fact": 7812,
-      "profit_plan": 973,
-      "profit_fact": 547
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 3816,
-      "fact": 4976,
-      "profit_plan": 954,
-      "profit_fact": 647
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 7748,
-      "fact": 6050,
-      "profit_plan": 1550,
-      "profit_fact": 1331
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 8948,
-      "fact": 9178,
-      "profit_plan": 1163,
-      "profit_fact": 1468
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 4171,
-      "fact": 4611,
-      "profit_plan": 876,
-      "profit_fact": 1107
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 9660,
-      "fact": 10350,
-      "profit_plan": 773,
-      "profit_fact": 828
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 4682,
-      "fact": 6172,
-      "profit_plan": 328,
-      "profit_fact": 1543
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 6250,
-      "fact": 7256,
-      "profit_plan": 1375,
-      "profit_fact": 1234
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 5390,
-      "fact": 6673,
-      "profit_plan": 916,
-      "profit_fact": 1602
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 14661,
-      "fact": 13270,
-      "profit_plan": 1026,
-      "profit_fact": 2389
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 8938,
-      "fact": 9476,
-      "profit_plan": 983,
-      "profit_fact": 2085
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 6252,
-      "fact": 7818,
-      "profit_plan": 563,
-      "profit_fact": 782
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 4226,
-      "fact": 4394,
-      "profit_plan": 549,
-      "profit_fact": 879
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 12411,
-      "fact": 12803,
-      "profit_plan": 2110,
-      "profit_fact": 3201
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 8168,
-      "fact": 5882,
-      "profit_plan": 1797,
-      "profit_fact": 823
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 13848,
-      "fact": 7866,
-      "profit_plan": 2493,
-      "profit_fact": 1494
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 11813,
-      "fact": 10368,
-      "profit_plan": 1418,
-      "profit_fact": 829
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 14532,
-      "fact": 9643,
-      "profit_plan": 2034,
-      "profit_fact": 2121
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 11919,
-      "fact": 8664,
-      "profit_plan": 2265,
-      "profit_fact": 693
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 9206,
-      "fact": 5287,
-      "profit_plan": 1381,
-      "profit_fact": 1216
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 14946,
-      "fact": 14322,
-      "profit_plan": 2541,
-      "profit_fact": 1862
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 12749,
-      "fact": 14792,
-      "profit_plan": 1530,
-      "profit_fact": 3254
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 6782,
-      "fact": 4284,
-      "profit_plan": 882,
-      "profit_fact": 857
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 14542,
-      "fact": 17525,
-      "profit_plan": 1745,
-      "profit_fact": 2629
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 10760,
-      "fact": 12600,
-      "profit_plan": 2260,
-      "profit_fact": 2394
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 8173,
-      "fact": 9977,
-      "profit_plan": 1880,
-      "profit_fact": 2095
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 10863,
-      "fact": 14251,
-      "profit_plan": 2390,
-      "profit_fact": 1140
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 11951,
-      "fact": 13721,
-      "profit_plan": 2390,
-      "profit_fact": 1647
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 11709,
-      "fact": 8109,
-      "profit_plan": 1756,
-      "profit_fact": 1460
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 9303,
-      "fact": 6150,
-      "profit_plan": 1582,
-      "profit_fact": 1292
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 11933,
-      "fact": 7812,
-      "profit_plan": 2745,
-      "profit_fact": 1484
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 13979,
-      "fact": 7918,
-      "profit_plan": 2936,
-      "profit_fact": 1584
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 9037,
-      "fact": 8666,
-      "profit_plan": 1265,
-      "profit_fact": 1213
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 5595,
-      "fact": 5803,
-      "profit_plan": 1175,
-      "profit_fact": 1335
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 6636,
-      "fact": 6527,
-      "profit_plan": 1261,
-      "profit_fact": 1501
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 13338,
-      "fact": 17200,
-      "profit_plan": 2001,
-      "profit_fact": 2580
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 11285,
-      "fact": 14097,
-      "profit_plan": 1693,
-      "profit_fact": 3101
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 4338,
-      "fact": 5775,
-      "profit_plan": 1041,
-      "profit_fact": 404
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 9147,
-      "fact": 11617,
-      "profit_plan": 1372,
-      "profit_fact": 1626
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 8968,
-      "fact": 11150,
-      "profit_plan": 2063,
-      "profit_fact": 1784
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 12492,
-      "fact": 7293,
-      "profit_plan": 1249,
-      "profit_fact": 1531
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 5804,
-      "fact": 5107,
-      "profit_plan": 1277,
-      "profit_fact": 1021
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 6725,
-      "fact": 7102,
-      "profit_plan": 1211,
-      "profit_fact": 1633
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 9013,
-      "fact": 7405,
-      "profit_plan": 2163,
-      "profit_fact": 740
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 5456,
-      "fact": 6780,
-      "profit_plan": 600,
-      "profit_fact": 475
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 10722,
-      "fact": 8619,
-      "profit_plan": 1501,
-      "profit_fact": 1034
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 9106,
-      "fact": 6879,
-      "profit_plan": 1366,
-      "profit_fact": 757
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 5475,
-      "fact": 6636,
-      "profit_plan": 876,
-      "profit_fact": 1261
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 14220,
-      "fact": 12090,
-      "profit_plan": 1991,
-      "profit_fact": 967
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 9416,
-      "fact": 7981,
-      "profit_plan": 1695,
-      "profit_fact": 1836
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 6779,
-      "fact": 6506,
-      "profit_plan": 1627,
-      "profit_fact": 1236
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 14266,
-      "fact": 18777,
-      "profit_plan": 2140,
-      "profit_fact": 4507
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 9881,
-      "fact": 13092,
-      "profit_plan": 1680,
-      "profit_fact": 1178
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 13472,
-      "fact": 17630,
-      "profit_plan": 1212,
-      "profit_fact": 1939
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 13511,
-      "fact": 8656,
-      "profit_plan": 1756,
-      "profit_fact": 1558
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 3696,
-      "fact": 2116,
-      "profit_plan": 259,
-      "profit_fact": 212
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 9615,
-      "fact": 7860,
-      "profit_plan": 1346,
-      "profit_fact": 786
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 8820,
-      "fact": 6536,
-      "profit_plan": 970,
-      "profit_fact": 1503
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 5204,
-      "fact": 5536,
-      "profit_plan": 416,
-      "profit_fact": 830
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 5616,
-      "fact": 3516,
-      "profit_plan": 730,
-      "profit_fact": 527
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 14147,
-      "fact": 12093,
-      "profit_plan": 2122,
-      "profit_fact": 846
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 5680,
-      "fact": 5126,
-      "profit_plan": 966,
-      "profit_fact": 974
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 13002,
-      "fact": 8849,
-      "profit_plan": 1820,
-      "profit_fact": 1150
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 9293,
-      "fact": 11802,
-      "profit_plan": 1487,
-      "profit_fact": 1652
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 7082,
-      "fact": 6554,
-      "profit_plan": 496,
-      "profit_fact": 1442
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 12790,
-      "fact": 9971,
-      "profit_plan": 1663,
-      "profit_fact": 1196
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 11533,
-      "fact": 12012,
-      "profit_plan": 2883,
-      "profit_fact": 2402
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 11360,
-      "fact": 8280,
-      "profit_plan": 1818,
-      "profit_fact": 662
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 8024,
-      "fact": 6375,
-      "profit_plan": 963,
-      "profit_fact": 1594
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 10932,
-      "fact": 13336,
-      "profit_plan": 1640,
-      "profit_fact": 2534
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 8601,
-      "fact": 9325,
-      "profit_plan": 860,
-      "profit_fact": 1306
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 4117,
-      "fact": 2642,
-      "profit_plan": 988,
-      "profit_fact": 370
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 6088,
-      "fact": 6356,
-      "profit_plan": 1461,
-      "profit_fact": 1462
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 13279,
-      "fact": 8460,
-      "profit_plan": 3187,
-      "profit_fact": 1438
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 12241,
-      "fact": 13583,
-      "profit_plan": 2693,
-      "profit_fact": 2445
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 10891,
-      "fact": 7111,
-      "profit_plan": 871,
-      "profit_fact": 1493
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 4440,
-      "fact": 2569,
-      "profit_plan": 755,
-      "profit_fact": 283
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 7230,
-      "fact": 4648,
-      "profit_plan": 1663,
-      "profit_fact": 883
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 4229,
-      "fact": 4851,
-      "profit_plan": 804,
-      "profit_fact": 1213
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 11576,
-      "fact": 9563,
-      "profit_plan": 2431,
-      "profit_fact": 1913
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 10815,
-      "fact": 12064,
-      "profit_plan": 2487,
-      "profit_fact": 1568
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 3941,
-      "fact": 4684,
-      "profit_plan": 828,
-      "profit_fact": 422
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 12710,
-      "fact": 15563,
-      "profit_plan": 2034,
-      "profit_fact": 1712
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 7560,
-      "fact": 6789,
-      "profit_plan": 1739,
-      "profit_fact": 1086
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 6018,
-      "fact": 6008,
-      "profit_plan": 843,
-      "profit_fact": 481
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 9730,
-      "fact": 10731,
-      "profit_plan": 1751,
-      "profit_fact": 1288
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 14435,
-      "fact": 10749,
-      "profit_plan": 1010,
-      "profit_fact": 1827
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 8583,
-      "fact": 8924,
-      "profit_plan": 2060,
-      "profit_fact": 1785
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Riga",
-      "category": "TV video",
-      "plan": 10151,
-      "fact": 6000,
-      "profit_plan": 1929,
-      "profit_fact": 1320
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 10753,
-      "fact": 11886,
-      "profit_plan": 1290,
-      "profit_fact": 1070
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 7836,
-      "fact": 10068,
-      "profit_plan": 1567,
-      "profit_fact": 1812
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 10957,
-      "fact": 9254,
-      "profit_plan": 1096,
-      "profit_fact": 2313
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 5347,
-      "fact": 6588,
-      "profit_plan": 1123,
-      "profit_fact": 1581
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 10832,
-      "fact": 9923,
-      "profit_plan": 975,
-      "profit_fact": 2084
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 5629,
-      "fact": 6902,
-      "profit_plan": 675,
-      "profit_fact": 1449
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Paris",
-      "category": "Home Appliances",
-      "plan": 12322,
-      "fact": 7351,
-      "profit_plan": 3081,
-      "profit_fact": 809
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 9827,
-      "fact": 8184,
-      "profit_plan": 1671,
-      "profit_fact": 1719
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 4444,
-      "fact": 3821,
-      "profit_plan": 844,
-      "profit_fact": 344
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 5845,
-      "fact": 5424,
-      "profit_plan": 1286,
-      "profit_fact": 1248
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 6720,
-      "fact": 7883,
-      "profit_plan": 1075,
-      "profit_fact": 1971
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 6800,
-      "fact": 6140,
-      "profit_plan": 748,
-      "profit_fact": 860
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 5672,
-      "fact": 3958,
-      "profit_plan": 1134,
-      "profit_fact": 792
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 8012,
-      "fact": 7100,
-      "profit_plan": 1683,
-      "profit_fact": 1136
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 6004,
-      "fact": 6367,
-      "profit_plan": 1261,
-      "profit_fact": 637
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Home Appliances",
-      "plan": 6483,
-      "fact": 5468,
-      "profit_plan": 519,
-      "profit_fact": 1203
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 11952,
-      "fact": 14568,
-      "profit_plan": 2032,
-      "profit_fact": 1748
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 10464,
-      "fact": 8362,
-      "profit_plan": 1779,
-      "profit_fact": 1254
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 6599,
-      "fact": 6306,
-      "profit_plan": 1188,
-      "profit_fact": 883
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 13800,
-      "fact": 15530,
-      "profit_plan": 1518,
-      "profit_fact": 1242
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 6335,
-      "fact": 3743,
-      "profit_plan": 824,
-      "profit_fact": 337
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 6440,
-      "fact": 3937,
-      "profit_plan": 837,
-      "profit_fact": 433
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 14307,
-      "fact": 11353,
-      "profit_plan": 2003,
-      "profit_fact": 2498
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 7025,
-      "fact": 7041,
-      "profit_plan": 632,
-      "profit_fact": 704
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 9958,
-      "fact": 6188,
-      "profit_plan": 1693,
-      "profit_fact": 1485
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 9942,
-      "fact": 11526,
-      "profit_plan": 2287,
-      "profit_fact": 2766
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 5338,
-      "fact": 5613,
-      "profit_plan": 1281,
-      "profit_fact": 561
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 10292,
-      "fact": 10610,
-      "profit_plan": 2058,
-      "profit_fact": 2652
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 9559,
-      "fact": 6562,
-      "profit_plan": 2103,
-      "profit_fact": 656
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Kitchen appliances",
-      "plan": 5361,
-      "fact": 6790,
-      "profit_plan": 429,
-      "profit_fact": 1358
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 10221,
-      "fact": 10413,
-      "profit_plan": 1533,
-      "profit_fact": 937
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 12313,
-      "fact": 10934,
-      "profit_plan": 862,
-      "profit_fact": 2405
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 5486,
-      "fact": 3774,
-      "profit_plan": 768,
-      "profit_fact": 453
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 12653,
-      "fact": 11142,
-      "profit_plan": 2531,
-      "profit_fact": 1783
-    },
-    {
-      "date": "01.08.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 13154,
-      "fact": 9833,
-      "profit_plan": 921,
-      "profit_fact": 2065
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 14903,
-      "fact": 18465,
-      "profit_plan": 1192,
-      "profit_fact": 4432
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 14315,
-      "fact": 16483,
-      "profit_plan": 3436,
-      "profit_fact": 2472
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Berlin",
-      "category": "TV video",
-      "plan": 10633,
-      "fact": 10935,
-      "profit_plan": 1063,
-      "profit_fact": 1968
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Paris",
-      "category": "Smartphones",
-      "plan": 4931,
-      "fact": 3496,
-      "profit_plan": 1233,
-      "profit_fact": 385
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 4173,
-      "fact": 3375,
-      "profit_plan": 1043,
-      "profit_fact": 304
-    },
-    {
-      "date": "01.05.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 9442,
-      "fact": 12354,
-      "profit_plan": 2077,
-      "profit_fact": 865
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Minsk",
-      "category": "Kitchen appliances",
-      "plan": 8094,
-      "fact": 6940,
-      "profit_plan": 1214,
-      "profit_fact": 1041
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 7911,
-      "fact": 9644,
-      "profit_plan": 1582,
-      "profit_fact": 1736
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 8356,
-      "fact": 8674,
-      "profit_plan": 1755,
-      "profit_fact": 1301
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Berlin",
-      "category": "Home Appliances",
-      "plan": 13076,
-      "fact": 14442,
-      "profit_plan": 1700,
-      "profit_fact": 2022
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 13282,
-      "fact": 14181,
-      "profit_plan": 1992,
-      "profit_fact": 1985
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "Smartphones",
-      "plan": 8331,
-      "fact": 4921,
-      "profit_plan": 1416,
-      "profit_fact": 984
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Madrid",
-      "category": "TV video",
-      "plan": 12745,
-      "fact": 16489,
-      "profit_plan": 3186,
-      "profit_fact": 2803
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 9744,
-      "fact": 11432,
-      "profit_plan": 974,
-      "profit_fact": 2286
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "Smartphones",
-      "plan": 4172,
-      "fact": 5315,
-      "profit_plan": 1001,
-      "profit_fact": 797
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 5046,
-      "fact": 4067,
-      "profit_plan": 757,
-      "profit_fact": 691
-    },
-    {
-      "date": "01.01.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 5704,
-      "fact": 6454,
-      "profit_plan": 913,
-      "profit_fact": 774
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 12219,
-      "fact": 11300,
-      "profit_plan": 2077,
-      "profit_fact": 1469
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 4678,
-      "fact": 4445,
-      "profit_plan": 327,
-      "profit_fact": 445
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 7026,
-      "fact": 6774,
-      "profit_plan": 1686,
-      "profit_fact": 1693
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 4787,
-      "fact": 5819,
-      "profit_plan": 1149,
-      "profit_fact": 1338
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 6784,
-      "fact": 7690,
-      "profit_plan": 1289,
-      "profit_fact": 1769
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 13754,
-      "fact": 14194,
-      "profit_plan": 1100,
-      "profit_fact": 2555
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 13268,
-      "fact": 9823,
-      "profit_plan": 2123,
-      "profit_fact": 1866
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 9588,
-      "fact": 6330,
-      "profit_plan": 671,
-      "profit_fact": 886
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 11212,
-      "fact": 13471,
-      "profit_plan": 1570,
-      "profit_fact": 2155
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Paris",
-      "category": "TV video",
-      "plan": 8742,
-      "fact": 9662,
-      "profit_plan": 1311,
-      "profit_fact": 1256
-    },
-    {
-      "date": "01.07.2023",
-      "sity": "Minsk",
-      "category": "Home Appliances",
-      "plan": 4293,
-      "fact": 3396,
-      "profit_plan": 472,
-      "profit_fact": 849
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 3428,
-      "fact": 2937,
-      "profit_plan": 480,
-      "profit_fact": 323
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Berlin",
-      "category": "Laptops and computers",
-      "plan": 13093,
-      "fact": 12824,
-      "profit_plan": 2357,
-      "profit_fact": 2693
-    },
-    {
-      "date": "01.04.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 6792,
-      "fact": 5689,
-      "profit_plan": 1358,
-      "profit_fact": 1365
-    },
-    {
-      "date": "01.10.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 9736,
-      "fact": 12253,
-      "profit_plan": 876,
-      "profit_fact": 2083
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Madrid",
-      "category": "Laptops and computers",
-      "plan": 4927,
-      "fact": 3666,
-      "profit_plan": 1084,
-      "profit_fact": 770
-    },
-    {
-      "date": "01.12.2023",
-      "sity": "Paris",
-      "category": "Laptops and computers",
-      "plan": 13582,
-      "fact": 14414,
-      "profit_plan": 1358,
-      "profit_fact": 2739
-    },
-    {
-      "date": "01.09.2023",
-      "sity": "Minsk",
-      "category": "Laptops and computers",
-      "plan": 14386,
-      "fact": 16109,
-      "profit_plan": 1870,
-      "profit_fact": 1772
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Smartphones",
-      "plan": 5581,
-      "fact": 5774,
-      "profit_plan": 949,
-      "profit_fact": 1443
-    },
-    {
-      "date": "01.11.2023",
-      "sity": "Madrid",
-      "category": "Home Appliances",
-      "plan": 10308,
-      "fact": 8938,
-      "profit_plan": 1752,
-      "profit_fact": 894
-    },
-    {
-      "date": "01.06.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 3911,
-      "fact": 2480,
-      "profit_plan": 821,
-      "profit_fact": 248
-    },
-    {
-      "date": "01.03.2023",
-      "sity": "Riga",
-      "category": "Laptops and computers",
-      "plan": 11088,
-      "fact": 8302,
-      "profit_plan": 1663,
-      "profit_fact": 664
-    },
-    {
-      "date": "01.02.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 12829,
-      "fact": 11579,
-      "profit_plan": 1796,
-      "profit_fact": 2316
-    },
+      "id": 6,
+      "manager_name": "Carl Williams",
+      "phone": 1236023519,
+      "email": "carl.ws@company.com"
+    }
+  ],
+  "categories": [
     {
-      "date": "01.04.2023",
-      "sity": "Minsk",
-      "category": "TV video",
-      "plan": 6210,
-      "fact": 8121,
-      "profit_plan": 1366,
-      "profit_fact": 650
+      "id": 1,
+      "category_name": "Smartphones"
     },
     {
-      "date": "01.01.2023",
-      "sity": "Paris",
-      "category": "Kitchen appliances",
-      "plan": 5171,
-      "fact": 5896,
-      "profit_plan": 362,
-      "profit_fact": 1356
+      "id": 2,
+      "category_name": "TV video"
     },
     {
-      "date": "01.04.2023",
-      "sity": "Berlin",
-      "category": "Smartphones",
-      "plan": 10275,
-      "fact": 7251,
-      "profit_plan": 2466,
-      "profit_fact": 870
+      "id": 3,
+      "category_name": "Laptops and computers"
     },
     {
-      "date": "01.07.2023",
-      "sity": "Madrid",
-      "category": "Kitchen appliances",
-      "plan": 11587,
-      "fact": 7445,
-      "profit_plan": 927,
-      "profit_fact": 745
+      "id": 4,
+      "category_name": "Kitchen appliances"
     },
     {
-      "date": "01.11.2023",
-      "sity": "Riga",
-      "category": "Kitchen appliances",
-      "plan": 6051,
-      "fact": 4246,
-      "profit_plan": 484,
-      "profit_fact": 509
+      "id": 5,
+      "category_name": "Home Appliances"
     }
   ],
   "orders": [
     {
-      "order_id": 3251,
-      "date": "27.02.2023",
-      "manager": "Marian Frazier",
-      "sum": 1039,
-      "status": "Preparing"
+      "id": 1,
+      "order_number": 3965,
+      "date": "12-09-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 892
+    },
+    {
+      "id": 2,
+      "order_number": 3873,
+      "date": "06-06-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 867
+    },
+    {
+      "id": 3,
+      "order_number": 3909,
+      "date": "04-27-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 1778
+    },
+    {
+      "id": 4,
+      "order_number": 4060,
+      "date": "04-02-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 451
+    },
+    {
+      "id": 5,
+      "order_number": 3972,
+      "date": "02-21-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 2508
+    },
+    {
+      "id": 6,
+      "order_number": 3829,
+      "date": "07-28-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2597
+    },
+    {
+      "id": 7,
+      "order_number": 3907,
+      "date": "01-01-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1018
+    },
+    {
+      "id": 8,
+      "order_number": 4073,
+      "date": "08-24-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 1472
+    },
+    {
+      "id": 9,
+      "order_number": 3932,
+      "date": "11-02-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1809
+    },
+    {
+      "id": 10,
+      "order_number": 3854,
+      "date": "01-14-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1595
+    },
+    {
+      "id": 11,
+      "order_number": 3978,
+      "date": "01-20-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 948
+    },
+    {
+      "id": 12,
+      "order_number": 3859,
+      "date": "11-12-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2777
+    },
+    {
+      "id": 13,
+      "order_number": 3977,
+      "date": "08-23-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 2676
     },
     {
-      "order_id": 3252,
-      "date": "15.04.2023",
-      "manager": "Patricia Russell",
-      "sum": 909,
-      "status": "Waiting for payment"
+      "id": 14,
+      "order_number": 3930,
+      "date": "05-03-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2267
     },
     {
-      "order_id": 3253,
-      "date": "19.11.2023",
-      "manager": "Marian Frazier",
-      "sum": 1858,
-      "status": "Paid"
+      "id": 15,
+      "order_number": 3925,
+      "date": "10-09-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2170
     },
     {
-      "order_id": 3254,
-      "date": "23.04.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1490,
-      "status": "Preparing"
+      "id": 16,
+      "order_number": 3954,
+      "date": "06-19-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1471
     },
     {
-      "order_id": 3255,
-      "date": "20.04.2023",
-      "manager": "Harry Robinson",
-      "sum": 637,
-      "status": "Waiting for payment"
+      "id": 17,
+      "order_number": 3914,
+      "date": "02-19-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1037
     },
     {
-      "order_id": 3256,
-      "date": "28.06.2023",
-      "manager": "Harry Robinson",
-      "sum": 1616,
-      "status": "Delivered"
+      "id": 18,
+      "order_number": 3858,
+      "date": "10-28-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 2756
     },
     {
-      "order_id": 3257,
-      "date": "22.09.2023",
-      "manager": "Harry Robinson",
-      "sum": 1645,
-      "status": "Waiting for payment"
+      "id": 19,
+      "order_number": 4058,
+      "date": "03-06-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2045
     },
     {
-      "order_id": 3258,
-      "date": "23.03.2023",
-      "manager": "Harry Robinson",
-      "sum": 2713,
-      "status": "Waiting for payment"
+      "id": 20,
+      "order_number": 4007,
+      "date": "08-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 2558
     },
     {
-      "order_id": 3259,
-      "date": "15.02.2023",
-      "manager": "Carolyn Lane",
-      "sum": 2057,
-      "status": "Delivered"
+      "id": 21,
+      "order_number": 3986,
+      "date": "12-01-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 589
     },
     {
-      "order_id": 3260,
-      "date": "21.11.2023",
-      "manager": "Harry Robinson",
-      "sum": 1100,
-      "status": "Preparing"
+      "id": 22,
+      "order_number": 4003,
+      "date": "08-28-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1211
     },
     {
-      "order_id": 3261,
-      "date": "18.06.2023",
-      "manager": "Harry Robinson",
-      "sum": 543,
-      "status": "Delivered"
+      "id": 23,
+      "order_number": 3916,
+      "date": "10-07-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2214
     },
     {
-      "order_id": 3262,
-      "date": "10.07.2023",
-      "manager": "Brian Jones",
-      "sum": 2481,
-      "status": "Paid"
+      "id": 24,
+      "order_number": 3855,
+      "date": "01-03-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1061
     },
     {
-      "order_id": 3263,
-      "date": "11.06.2023",
-      "manager": "Carl Williams",
-      "sum": 1436,
-      "status": "Delivered"
+      "id": 25,
+      "order_number": 3918,
+      "date": "06-23-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 473
     },
     {
-      "order_id": 3264,
-      "date": "09.12.2023",
-      "manager": "Harry Robinson",
-      "sum": 452,
-      "status": "Sent"
+      "id": 26,
+      "order_number": 3905,
+      "date": "10-10-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2290
     },
     {
-      "order_id": 3265,
-      "date": "27.07.2023",
-      "manager": "Brian Jones",
-      "sum": 1501,
-      "status": "Waiting for payment"
+      "id": 27,
+      "order_number": 3997,
+      "date": "08-02-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 1111
     },
     {
-      "order_id": 3266,
-      "date": "09.07.2023",
-      "manager": "Patricia Russell",
-      "sum": 1974,
-      "status": "Delivered"
+      "id": 28,
+      "order_number": 3831,
+      "date": "11-12-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1772
     },
     {
-      "order_id": 3267,
-      "date": "23.11.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1353,
-      "status": "Waiting for payment"
+      "id": 29,
+      "order_number": 4055,
+      "date": "02-18-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 1643
     },
     {
-      "order_id": 3268,
-      "date": "22.10.2023",
-      "manager": "Patricia Russell",
-      "sum": 867,
-      "status": "Paid"
+      "id": 30,
+      "order_number": 4021,
+      "date": "05-21-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1112
     },
     {
-      "order_id": 3269,
-      "date": "19.07.2023",
-      "manager": "Carl Williams",
-      "sum": 1453,
-      "status": "Preparing"
+      "id": 31,
+      "order_number": 4009,
+      "date": "04-21-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 405
     },
     {
-      "order_id": 3270,
-      "date": "20.10.2023",
-      "manager": "Harry Robinson",
-      "sum": 1976,
-      "status": "Waiting for payment"
+      "id": 32,
+      "order_number": 3855,
+      "date": "01-03-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1517
     },
     {
-      "order_id": 3271,
-      "date": "21.10.2023",
-      "manager": "Marian Frazier",
-      "sum": 1467,
-      "status": "Waiting for payment"
+      "id": 33,
+      "order_number": 3970,
+      "date": "11-02-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 985
     },
     {
-      "order_id": 3272,
-      "date": "23.07.2023",
-      "manager": "Marian Frazier",
-      "sum": 1554,
-      "status": "Paid"
+      "id": 34,
+      "order_number": 3815,
+      "date": "02-28-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1313
     },
     {
-      "order_id": 3273,
-      "date": "17.07.2023",
-      "manager": "Patricia Russell",
-      "sum": 359,
-      "status": "Paid"
+      "id": 35,
+      "order_number": 3871,
+      "date": "12-21-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 617
     },
     {
-      "order_id": 3274,
-      "date": "12.12.2023",
-      "manager": "Harry Robinson",
-      "sum": 2360,
-      "status": "Paid"
+      "id": 36,
+      "order_number": 3884,
+      "date": "06-14-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 463
     },
     {
-      "order_id": 3275,
-      "date": "19.05.2023",
-      "manager": "Marian Frazier",
-      "sum": 1362,
-      "status": "Waiting for payment"
+      "id": 37,
+      "order_number": 4031,
+      "date": "08-26-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1319
     },
     {
-      "order_id": 3276,
-      "date": "11.05.2023",
-      "manager": "Brian Jones",
-      "sum": 961,
-      "status": "Paid"
+      "id": 38,
+      "order_number": 3881,
+      "date": "12-12-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2427
     },
     {
-      "order_id": 3277,
-      "date": "03.03.2023",
-      "manager": "Marian Frazier",
-      "sum": 2157,
-      "status": "Delivered"
+      "id": 39,
+      "order_number": 3876,
+      "date": "08-22-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1218
     },
     {
-      "order_id": 3278,
-      "date": "06.11.2023",
-      "manager": "Marian Frazier",
-      "sum": 1236,
-      "status": "Delivered"
+      "id": 40,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2016
     },
     {
-      "order_id": 3279,
-      "date": "05.08.2023",
-      "manager": "Harry Robinson",
-      "sum": 1663,
-      "status": "Delivered"
+      "id": 41,
+      "order_number": 3947,
+      "date": "06-03-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1376
     },
     {
-      "order_id": 3280,
-      "date": "10.07.2023",
-      "manager": "Brian Jones",
-      "sum": 1659,
-      "status": "Sent"
+      "id": 42,
+      "order_number": 3988,
+      "date": "05-23-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 813
     },
     {
-      "order_id": 3281,
-      "date": "18.07.2023",
-      "manager": "Brian Jones",
-      "sum": 2573,
-      "status": "Waiting for payment"
+      "id": 43,
+      "order_number": 3939,
+      "date": "02-10-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 2521
     },
     {
-      "order_id": 3282,
-      "date": "04.01.2023",
-      "manager": "Harry Robinson",
-      "sum": 2716,
-      "status": "Preparing"
+      "id": 44,
+      "order_number": 3969,
+      "date": "12-17-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2170
     },
     {
-      "order_id": 3283,
-      "date": "08.11.2023",
-      "manager": "Harry Robinson",
-      "sum": 1894,
-      "status": "Preparing"
+      "id": 45,
+      "order_number": 3897,
+      "date": "04-28-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2540
     },
     {
-      "order_id": 3284,
-      "date": "07.04.2023",
-      "manager": "Harry Robinson",
-      "sum": 2441,
-      "status": "Delivered"
+      "id": 46,
+      "order_number": 3990,
+      "date": "05-18-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 581
     },
     {
-      "order_id": 3285,
-      "date": "28.05.2023",
-      "manager": "Patricia Russell",
-      "sum": 2400,
-      "status": "Waiting for payment"
+      "id": 47,
+      "order_number": 3958,
+      "date": "09-13-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1545
     },
     {
-      "order_id": 3286,
-      "date": "17.07.2023",
-      "manager": "Brian Jones",
-      "sum": 1932,
-      "status": "Delivered"
+      "id": 48,
+      "order_number": 4004,
+      "date": "10-14-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2035
     },
     {
-      "order_id": 3287,
-      "date": "25.05.2023",
-      "manager": "Carolyn Lane",
-      "sum": 486,
-      "status": "Waiting for payment"
+      "id": 49,
+      "order_number": 3857,
+      "date": "03-24-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1572
     },
     {
-      "order_id": 3288,
-      "date": "23.07.2023",
-      "manager": "Patricia Russell",
-      "sum": 925,
-      "status": "Waiting for payment"
+      "id": 50,
+      "order_number": 4055,
+      "date": "02-18-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 423
     },
     {
-      "order_id": 3289,
-      "date": "04.04.2023",
-      "manager": "Brian Jones",
-      "sum": 1823,
-      "status": "Waiting for payment"
+      "id": 51,
+      "order_number": 3995,
+      "date": "06-25-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 1517
     },
     {
-      "order_id": 3290,
-      "date": "09.10.2023",
-      "manager": "Brian Jones",
-      "sum": 1948,
-      "status": "Preparing"
+      "id": 52,
+      "order_number": 3985,
+      "date": "12-01-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1091
     },
     {
-      "order_id": 3291,
-      "date": "15.10.2023",
-      "manager": "Harry Robinson",
-      "sum": 1475,
-      "status": "Waiting for payment"
+      "id": 53,
+      "order_number": 3948,
+      "date": "03-02-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 385
     },
     {
-      "order_id": 3292,
-      "date": "07.06.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1079,
-      "status": "Delivered"
+      "id": 54,
+      "order_number": 4047,
+      "date": "11-09-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2105
     },
     {
-      "order_id": 3293,
-      "date": "01.07.2023",
-      "manager": "Patricia Russell",
-      "sum": 920,
-      "status": "Sent"
+      "id": 55,
+      "order_number": 3943,
+      "date": "08-17-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1948
     },
     {
-      "order_id": 3294,
-      "date": "25.02.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1083,
-      "status": "Delivered"
+      "id": 56,
+      "order_number": 4041,
+      "date": "11-03-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 964
     },
     {
-      "order_id": 3295,
-      "date": "23.06.2023",
-      "manager": "Patricia Russell",
-      "sum": 1539,
-      "status": "Preparing"
+      "id": 57,
+      "order_number": 3862,
+      "date": "11-04-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2618
     },
     {
-      "order_id": 3296,
-      "date": "14.01.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1108,
-      "status": "Paid"
+      "id": 58,
+      "order_number": 3927,
+      "date": "07-04-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2042
     },
     {
-      "order_id": 3297,
-      "date": "17.05.2023",
-      "manager": "Marian Frazier",
-      "sum": 1307,
-      "status": "Sent"
+      "id": 59,
+      "order_number": 3962,
+      "date": "11-11-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1808
     },
     {
-      "order_id": 3298,
-      "date": "27.01.2023",
-      "manager": "Brian Jones",
-      "sum": 2248,
-      "status": "Waiting for payment"
+      "id": 60,
+      "order_number": 3857,
+      "date": "03-24-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 454
     },
     {
-      "order_id": 3299,
-      "date": "01.09.2023",
-      "manager": "Patricia Russell",
-      "sum": 2556,
-      "status": "Sent"
+      "id": 61,
+      "order_number": 3825,
+      "date": "05-02-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 575
     },
     {
-      "order_id": 3300,
-      "date": "05.07.2023",
-      "manager": "Marian Frazier",
-      "sum": 1586,
-      "status": "Sent"
+      "id": 62,
+      "order_number": 4039,
+      "date": "05-24-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 2494
     },
     {
-      "order_id": 3301,
-      "date": "07.01.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1271,
-      "status": "Delivered"
+      "id": 63,
+      "order_number": 4074,
+      "date": "11-05-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1882
     },
     {
-      "order_id": 3302,
-      "date": "05.11.2023",
-      "manager": "Patricia Russell",
-      "sum": 2008,
-      "status": "Waiting for payment"
+      "id": 64,
+      "order_number": 4030,
+      "date": "03-03-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 595
     },
     {
-      "order_id": 3303,
-      "date": "25.04.2023",
-      "manager": "Carl Williams",
-      "sum": 1673,
-      "status": "Waiting for payment"
+      "id": 65,
+      "order_number": 3906,
+      "date": "10-08-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1583
     },
     {
-      "order_id": 3304,
-      "date": "24.02.2023",
-      "manager": "Harry Robinson",
-      "sum": 980,
-      "status": "Delivered"
+      "id": 66,
+      "order_number": 3822,
+      "date": "08-15-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 2077
     },
     {
-      "order_id": 3305,
-      "date": "11.03.2023",
-      "manager": "Harry Robinson",
-      "sum": 1864,
-      "status": "Waiting for payment"
+      "id": 67,
+      "order_number": 3870,
+      "date": "04-03-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 543
     },
     {
-      "order_id": 3306,
-      "date": "27.03.2023",
-      "manager": "Marian Frazier",
-      "sum": 919,
-      "status": "Preparing"
+      "id": 68,
+      "order_number": 3954,
+      "date": "06-19-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1929
     },
     {
-      "order_id": 3307,
-      "date": "18.08.2023",
-      "manager": "Carolyn Lane",
-      "sum": 948,
-      "status": "Paid"
+      "id": 69,
+      "order_number": 4063,
+      "date": "11-26-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1498
     },
     {
-      "order_id": 3308,
-      "date": "21.06.2023",
-      "manager": "Carolyn Lane",
-      "sum": 486,
-      "status": "Paid"
+      "id": 70,
+      "order_number": 4062,
+      "date": "02-01-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 570
     },
     {
-      "order_id": 3309,
-      "date": "08.07.2023",
-      "manager": "Carl Williams",
-      "sum": 1027,
-      "status": "Delivered"
+      "id": 71,
+      "order_number": 4022,
+      "date": "03-09-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 755
     },
     {
-      "order_id": 3310,
-      "date": "13.02.2023",
-      "manager": "Brian Jones",
-      "sum": 2527,
-      "status": "Paid"
+      "id": 72,
+      "order_number": 3880,
+      "date": "08-01-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2081
     },
     {
-      "order_id": 3311,
-      "date": "02.08.2023",
-      "manager": "Carolyn Lane",
-      "sum": 1480,
-      "status": "Delivered"
+      "id": 73,
+      "order_number": 3975,
+      "date": "09-07-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 2136
     },
     {
-      "order_id": 3312,
-      "date": "28.05.2023",
-      "manager": "Marian Frazier",
-      "sum": 1830,
-      "status": "Preparing"
+      "id": 74,
+      "order_number": 3928,
+      "date": "08-03-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 807
     },
     {
-      "order_id": 3313,
-      "date": "06.02.2023",
-      "manager": "Carl Williams",
-      "sum": 1307,
-      "status": "Paid"
+      "id": 75,
+      "order_number": 3851,
+      "date": "06-17-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1691
     },
     {
-      "order_id": 3314,
-      "date": "22.07.2023",
-      "manager": "Carolyn Lane",
-      "sum": 966,
-      "status": "Paid"
+      "id": 76,
+      "order_number": 3987,
+      "date": "05-02-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2056
     },
     {
-      "order_id": 3315,
-      "date": "02.04.2023",
-      "manager": "Patricia Russell",
-      "sum": 1669,
-      "status": "Preparing"
+      "id": 77,
+      "order_number": 3984,
+      "date": "12-07-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2522
     },
     {
-      "order_id": 3316,
-      "date": "16.10.2023",
-      "manager": "Brian Jones",
-      "sum": 2308,
-      "status": "Delivered"
+      "id": 78,
+      "order_number": 3934,
+      "date": "04-07-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2160
     },
     {
-      "order_id": 3317,
-      "date": "01.11.2023",
-      "manager": "Brian Jones",
-      "sum": 589,
-      "status": "Waiting for payment"
+      "id": 79,
+      "order_number": 3977,
+      "date": "08-23-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 2751
     },
     {
-      "order_id": 3318,
-      "date": "11.02.2023",
-      "manager": "Carolyn Lane",
-      "sum": 719,
-      "status": "Paid"
+      "id": 80,
+      "order_number": 3921,
+      "date": "02-03-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 1814
     },
     {
-      "order_id": 3319,
-      "date": "15.07.2023",
-      "manager": "Brian Jones",
-      "sum": 2278,
-      "status": "Sent"
+      "id": 81,
+      "order_number": 3905,
+      "date": "10-10-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 890
     },
     {
-      "order_id": 3320,
-      "date": "13.12.2023",
-      "manager": "Marian Frazier",
-      "sum": 2248,
-      "status": "Paid"
+      "id": 82,
+      "order_number": 3873,
+      "date": "06-06-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1611
     },
     {
-      "order_id": 3321,
-      "date": "18.04.2023",
-      "manager": "Carolyn Lane",
-      "sum": 2305,
-      "status": "Waiting for payment"
+      "id": 83,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 2260
     },
     {
-      "order_id": 3322,
-      "date": "13.01.2023",
-      "manager": "Marian Frazier",
-      "sum": 2641,
-      "status": "Delivered"
+      "id": 84,
+      "order_number": 4075,
+      "date": "11-01-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 479
     },
     {
-      "order_id": 3323,
-      "date": "18.12.2023",
-      "manager": "Brian Jones",
-      "sum": 1102,
-      "status": "Preparing"
+      "id": 85,
+      "order_number": 3992,
+      "date": "06-15-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1454
     },
     {
-      "order_id": 3324,
-      "date": "24.07.2023",
-      "manager": "Harry Robinson",
-      "sum": 2004,
-      "status": "Delivered"
+      "id": 86,
+      "order_number": 3859,
+      "date": "11-12-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 861
     },
     {
-      "order_id": 3325,
-      "date": "13.12.2023",
-      "manager": "Harry Robinson",
-      "sum": 2270,
-      "status": "Delivered"
+      "id": 87,
+      "order_number": 3896,
+      "date": "12-28-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1920
     },
     {
-      "order_id": 3326,
-      "date": "14.07.2023",
-      "manager": "Brian Jones",
-      "sum": 2779,
-      "status": "Preparing"
+      "id": 88,
+      "order_number": 3931,
+      "date": "06-08-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1091
     },
     {
-      "order_id": 3327,
-      "date": "11.09.2023",
-      "manager": "Carolyn Lane",
-      "sum": 844,
-      "status": "Preparing"
+      "id": 89,
+      "order_number": 3914,
+      "date": "02-19-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 931
     },
     {
-      "order_id": 3328,
-      "date": "19.08.2023",
-      "manager": "Patricia Russell",
-      "sum": 1193,
-      "status": "Paid"
+      "id": 90,
+      "order_number": 3871,
+      "date": "12-21-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 378
     },
     {
-      "order_id": 3329,
-      "date": "16.03.2023",
-      "manager": "Harry Robinson",
-      "sum": 2249,
-      "status": "Delivered"
+      "id": 91,
+      "order_number": 3845,
+      "date": "05-20-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1167
     },
     {
-      "order_id": 3330,
-      "date": "12.06.2023",
-      "manager": "Carl Williams",
-      "sum": 2450,
-      "status": "Waiting for payment"
+      "id": 92,
+      "order_number": 3954,
+      "date": "06-19-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 824
     },
     {
-      "order_id": 3331,
-      "date": "09.02.2023",
-      "manager": "Carolyn Lane",
-      "sum": 957,
-      "status": "Sent"
+      "id": 93,
+      "order_number": 3824,
+      "date": "04-22-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 986
     },
     {
-      "order_id": 3332,
-      "date": "24.08.2023",
-      "manager": "Harry Robinson",
-      "sum": 1920,
-      "status": "Sent"
+      "id": 94,
+      "order_number": 4057,
+      "date": "04-18-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2675
     },
     {
-      "order_id": 3333,
-      "date": "20.10.2023",
-      "manager": "Carolyn Lane",
-      "sum": 374,
-      "status": "Waiting for payment"
+      "id": 95,
+      "order_number": 4077,
+      "date": "12-12-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 610
     },
     {
-      "order_id": 3334,
-      "date": "25.09.2023",
-      "manager": "Patricia Russell",
-      "sum": 957,
-      "status": "Paid"
+      "id": 96,
+      "order_number": 3892,
+      "date": "03-21-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 936
     },
     {
-      "order_id": 3335,
-      "date": "22.07.2023",
-      "manager": "Harry Robinson",
-      "sum": 1141,
-      "status": "Delivered"
+      "id": 97,
+      "order_number": 3830,
+      "date": "06-23-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1601
     },
     {
-      "order_id": 3336,
-      "date": "17.08.2023",
-      "manager": "Harry Robinson",
-      "sum": 1992,
-      "status": "Paid"
+      "id": 98,
+      "order_number": 3841,
+      "date": "03-27-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2791
     },
     {
-      "order_id": 3337,
-      "date": "05.01.2023",
-      "manager": "Harry Robinson",
-      "sum": 398,
-      "status": "Waiting for payment"
+      "id": 99,
+      "order_number": 3964,
+      "date": "10-05-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 845
     },
     {
-      "order_id": 3338,
-      "date": "24.01.2023",
-      "manager": "Brian Jones",
-      "sum": 2223,
-      "status": "Preparing"
+      "id": 100,
+      "order_number": 3887,
+      "date": "03-17-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 419
     },
     {
-      "order_id": 3339,
-      "date": "27.10.2023",
-      "manager": "Patricia Russell",
-      "sum": 2492,
-      "status": "Sent"
+      "id": 101,
+      "order_number": 3895,
+      "date": "05-26-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 484
     },
     {
-      "order_id": 3340,
-      "date": "26.02.2023",
-      "manager": "Carolyn Lane",
-      "sum": 2374,
-      "status": "Paid"
+      "id": 102,
+      "order_number": 3949,
+      "date": "09-22-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 2624
     },
     {
-      "order_id": 3341,
-      "date": "22.09.2023",
-      "manager": "Patricia Russell",
-      "sum": 2767,
-      "status": "Paid"
+      "id": 103,
+      "order_number": 3947,
+      "date": "06-03-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2221
     },
     {
-      "order_id": 3342,
-      "date": "07.07.2023",
-      "manager": "Harry Robinson",
-      "sum": 482,
-      "status": "Sent"
+      "id": 104,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 610
     },
     {
-      "order_id": 3343,
-      "date": "18.01.2023",
-      "manager": "Patricia Russell",
-      "sum": 1593,
-      "status": "Delivered"
+      "id": 105,
+      "order_number": 3930,
+      "date": "05-03-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2456
     },
     {
-      "order_id": 3344,
-      "date": "14.08.2023",
-      "manager": "Carolyn Lane",
-      "sum": 746,
-      "status": "Delivered"
+      "id": 106,
+      "order_number": 3837,
+      "date": "12-01-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2397
     },
     {
-      "order_id": 3345,
-      "date": "07.04.2023",
-      "manager": "Marian Frazier",
-      "sum": 1894,
-      "status": "Preparing"
+      "id": 107,
+      "order_number": 3961,
+      "date": "10-28-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1643
     },
     {
-      "order_id": 3346,
-      "date": "21.12.2023",
-      "manager": "Patricia Russell",
-      "sum": 2087,
-      "status": "Preparing"
+      "id": 108,
+      "order_number": 3923,
+      "date": "09-19-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2391
     },
     {
-      "order_id": 3347,
-      "date": "16.01.2023",
-      "manager": "Patricia Russell",
-      "sum": 1160,
-      "status": "Delivered"
+      "id": 109,
+      "order_number": 4081,
+      "date": "01-16-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1530
     },
     {
-      "order_id": 3348,
-      "date": "19.08.2023",
-      "manager": "Patricia Russell",
-      "sum": 1061,
-      "status": "Waiting for payment"
+      "id": 110,
+      "order_number": 4000,
+      "date": "04-23-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 970
     },
     {
-      "order_id": 3349,
-      "date": "06.08.2023",
-      "manager": "Patricia Russell",
-      "sum": 2563,
-      "status": "Preparing"
+      "id": 111,
+      "order_number": 3965,
+      "date": "12-09-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 709
+    },
+    {
+      "id": 112,
+      "order_number": 4080,
+      "date": "08-23-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1828
+    },
+    {
+      "id": 113,
+      "order_number": 3898,
+      "date": "04-05-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1113
+    },
+    {
+      "id": 114,
+      "order_number": 3828,
+      "date": "02-22-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 2506
+    },
+    {
+      "id": 115,
+      "order_number": 3911,
+      "date": "01-25-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2005
+    },
+    {
+      "id": 116,
+      "order_number": 3855,
+      "date": "01-03-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1008
+    },
+    {
+      "id": 117,
+      "order_number": 4017,
+      "date": "07-27-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2347
+    },
+    {
+      "id": 118,
+      "order_number": 4035,
+      "date": "02-11-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2677
+    },
+    {
+      "id": 119,
+      "order_number": 3919,
+      "date": "12-15-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2167
+    },
+    {
+      "id": 120,
+      "order_number": 3825,
+      "date": "05-02-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 1674
+    },
+    {
+      "id": 121,
+      "order_number": 4005,
+      "date": "02-09-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 2074
+    },
+    {
+      "id": 122,
+      "order_number": 3878,
+      "date": "12-18-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1341
+    },
+    {
+      "id": 123,
+      "order_number": 4055,
+      "date": "02-18-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 815
+    },
+    {
+      "id": 124,
+      "order_number": 3874,
+      "date": "06-03-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1974
+    },
+    {
+      "id": 125,
+      "order_number": 3919,
+      "date": "12-15-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 946
+    },
+    {
+      "id": 126,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 748
+    },
+    {
+      "id": 127,
+      "order_number": 3993,
+      "date": "05-05-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1677
+    },
+    {
+      "id": 128,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1959
+    },
+    {
+      "id": 129,
+      "order_number": 3830,
+      "date": "06-23-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 2773
+    },
+    {
+      "id": 130,
+      "order_number": 3988,
+      "date": "05-23-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2656
+    },
+    {
+      "id": 131,
+      "order_number": 4038,
+      "date": "10-24-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1390
+    },
+    {
+      "id": 132,
+      "order_number": 3840,
+      "date": "04-23-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 359
+    },
+    {
+      "id": 133,
+      "order_number": 4002,
+      "date": "06-03-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 496
+    },
+    {
+      "id": 134,
+      "order_number": 3905,
+      "date": "10-10-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1025
+    },
+    {
+      "id": 135,
+      "order_number": 3877,
+      "date": "03-20-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 991
+    },
+    {
+      "id": 136,
+      "order_number": 3971,
+      "date": "10-06-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2094
+    },
+    {
+      "id": 137,
+      "order_number": 3826,
+      "date": "05-25-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2094
+    },
+    {
+      "id": 138,
+      "order_number": 3968,
+      "date": "02-26-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 1887
+    },
+    {
+      "id": 139,
+      "order_number": 3982,
+      "date": "07-12-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2500
+    },
+    {
+      "id": 140,
+      "order_number": 3993,
+      "date": "05-05-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1172
+    },
+    {
+      "id": 141,
+      "order_number": 4048,
+      "date": "05-07-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 1226
+    },
+    {
+      "id": 142,
+      "order_number": 3853,
+      "date": "02-11-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2082
+    },
+    {
+      "id": 143,
+      "order_number": 4035,
+      "date": "02-11-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1248
+    },
+    {
+      "id": 144,
+      "order_number": 3840,
+      "date": "04-23-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1985
+    },
+    {
+      "id": 145,
+      "order_number": 3843,
+      "date": "04-10-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1294
+    },
+    {
+      "id": 146,
+      "order_number": 4077,
+      "date": "12-12-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1450
+    },
+    {
+      "id": 147,
+      "order_number": 4075,
+      "date": "11-01-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1624
+    },
+    {
+      "id": 148,
+      "order_number": 3821,
+      "date": "09-11-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1558
+    },
+    {
+      "id": 149,
+      "order_number": 3978,
+      "date": "01-20-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 550
+    },
+    {
+      "id": 150,
+      "order_number": 4070,
+      "date": "10-19-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 1292
+    },
+    {
+      "id": 151,
+      "order_number": 4004,
+      "date": "10-14-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1167
+    },
+    {
+      "id": 152,
+      "order_number": 3929,
+      "date": "11-20-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 415
+    },
+    {
+      "id": 153,
+      "order_number": 4038,
+      "date": "10-24-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2160
+    },
+    {
+      "id": 154,
+      "order_number": 3992,
+      "date": "06-15-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1604
+    },
+    {
+      "id": 155,
+      "order_number": 3965,
+      "date": "12-09-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1953
+    },
+    {
+      "id": 156,
+      "order_number": 3898,
+      "date": "04-05-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1264
+    },
+    {
+      "id": 157,
+      "order_number": 3938,
+      "date": "03-12-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1638
+    },
+    {
+      "id": 158,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 731
+    },
+    {
+      "id": 159,
+      "order_number": 3830,
+      "date": "06-23-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2308
+    },
+    {
+      "id": 160,
+      "order_number": 4002,
+      "date": "06-03-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1934
+    },
+    {
+      "id": 161,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 482
+    },
+    {
+      "id": 162,
+      "order_number": 3915,
+      "date": "01-02-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 2096
+    },
+    {
+      "id": 163,
+      "order_number": 3863,
+      "date": "10-27-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 544
+    },
+    {
+      "id": 164,
+      "order_number": 4081,
+      "date": "01-16-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 790
+    },
+    {
+      "id": 165,
+      "order_number": 4068,
+      "date": "10-24-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1890
+    },
+    {
+      "id": 166,
+      "order_number": 3863,
+      "date": "10-27-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1895
+    },
+    {
+      "id": 167,
+      "order_number": 3927,
+      "date": "07-04-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1591
+    },
+    {
+      "id": 168,
+      "order_number": 3928,
+      "date": "08-03-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1793
+    },
+    {
+      "id": 169,
+      "order_number": 4078,
+      "date": "05-18-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 528
+    },
+    {
+      "id": 170,
+      "order_number": 3913,
+      "date": "02-21-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1445
+    },
+    {
+      "id": 171,
+      "order_number": 3978,
+      "date": "01-20-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 1844
+    },
+    {
+      "id": 172,
+      "order_number": 4079,
+      "date": "08-10-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1177
+    },
+    {
+      "id": 173,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 1991
+    },
+    {
+      "id": 174,
+      "order_number": 3910,
+      "date": "05-13-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 888
+    },
+    {
+      "id": 175,
+      "order_number": 3986,
+      "date": "12-01-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 872
+    },
+    {
+      "id": 176,
+      "order_number": 4004,
+      "date": "10-14-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2383
+    },
+    {
+      "id": 177,
+      "order_number": 3967,
+      "date": "02-09-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 811
+    },
+    {
+      "id": 178,
+      "order_number": 3824,
+      "date": "04-22-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 901
+    },
+    {
+      "id": 179,
+      "order_number": 4031,
+      "date": "08-26-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 896
+    },
+    {
+      "id": 180,
+      "order_number": 3919,
+      "date": "12-15-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 373
+    },
+    {
+      "id": 181,
+      "order_number": 4079,
+      "date": "08-10-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 847
+    },
+    {
+      "id": 182,
+      "order_number": 3839,
+      "date": "06-10-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1243
+    },
+    {
+      "id": 183,
+      "order_number": 3824,
+      "date": "04-22-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 2717
+    },
+    {
+      "id": 184,
+      "order_number": 4039,
+      "date": "05-24-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 2522
+    },
+    {
+      "id": 185,
+      "order_number": 3964,
+      "date": "10-05-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2549
+    },
+    {
+      "id": 186,
+      "order_number": 3979,
+      "date": "02-15-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 1163
+    },
+    {
+      "id": 187,
+      "order_number": 3893,
+      "date": "08-18-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1276
+    },
+    {
+      "id": 188,
+      "order_number": 4052,
+      "date": "08-05-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 1374
+    },
+    {
+      "id": 189,
+      "order_number": 3887,
+      "date": "03-17-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1169
+    },
+    {
+      "id": 190,
+      "order_number": 4049,
+      "date": "02-09-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 885
+    },
+    {
+      "id": 191,
+      "order_number": 4017,
+      "date": "07-27-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1343
+    },
+    {
+      "id": 192,
+      "order_number": 3890,
+      "date": "06-04-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2042
+    },
+    {
+      "id": 193,
+      "order_number": 3957,
+      "date": "12-14-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2163
+    },
+    {
+      "id": 194,
+      "order_number": 3843,
+      "date": "04-10-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2566
+    },
+    {
+      "id": 195,
+      "order_number": 4028,
+      "date": "10-06-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1047
+    },
+    {
+      "id": 196,
+      "order_number": 3822,
+      "date": "08-15-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1343
+    },
+    {
+      "id": 197,
+      "order_number": 4018,
+      "date": "07-23-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2032
+    },
+    {
+      "id": 198,
+      "order_number": 4027,
+      "date": "05-08-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 1033
+    },
+    {
+      "id": 199,
+      "order_number": 3975,
+      "date": "09-07-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 377
+    },
+    {
+      "id": 200,
+      "order_number": 3971,
+      "date": "10-06-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 984
+    },
+    {
+      "id": 201,
+      "order_number": 4006,
+      "date": "03-14-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 818
+    },
+    {
+      "id": 202,
+      "order_number": 4049,
+      "date": "02-09-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 489
+    },
+    {
+      "id": 203,
+      "order_number": 3966,
+      "date": "01-16-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 748
+    },
+    {
+      "id": 204,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2614
+    },
+    {
+      "id": 205,
+      "order_number": 3978,
+      "date": "01-20-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1946
+    },
+    {
+      "id": 206,
+      "order_number": 4068,
+      "date": "10-24-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2129
+    },
+    {
+      "id": 207,
+      "order_number": 3988,
+      "date": "05-23-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1444
+    },
+    {
+      "id": 208,
+      "order_number": 4017,
+      "date": "07-27-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2778
+    },
+    {
+      "id": 209,
+      "order_number": 4046,
+      "date": "07-16-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 917
+    },
+    {
+      "id": 210,
+      "order_number": 3984,
+      "date": "12-07-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2642
+    },
+    {
+      "id": 211,
+      "order_number": 4041,
+      "date": "11-03-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2247
+    },
+    {
+      "id": 212,
+      "order_number": 4024,
+      "date": "09-01-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 1343
+    },
+    {
+      "id": 213,
+      "order_number": 3975,
+      "date": "09-07-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 2248
+    },
+    {
+      "id": 214,
+      "order_number": 4072,
+      "date": "03-08-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1512
+    },
+    {
+      "id": 215,
+      "order_number": 3976,
+      "date": "05-02-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1357
+    },
+    {
+      "id": 216,
+      "order_number": 3816,
+      "date": "07-05-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1950
+    },
+    {
+      "id": 217,
+      "order_number": 3920,
+      "date": "12-20-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1756
+    },
+    {
+      "id": 218,
+      "order_number": 4010,
+      "date": "07-18-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2376
+    },
+    {
+      "id": 219,
+      "order_number": 3945,
+      "date": "04-07-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2222
+    },
+    {
+      "id": 220,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 811
+    },
+    {
+      "id": 221,
+      "order_number": 3965,
+      "date": "12-09-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1263
+    },
+    {
+      "id": 222,
+      "order_number": 3979,
+      "date": "02-15-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 802
+    },
+    {
+      "id": 223,
+      "order_number": 3988,
+      "date": "05-23-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1980
+    },
+    {
+      "id": 224,
+      "order_number": 4070,
+      "date": "10-19-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1247
+    },
+    {
+      "id": 225,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2206
+    },
+    {
+      "id": 226,
+      "order_number": 4064,
+      "date": "01-01-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2075
+    },
+    {
+      "id": 227,
+      "order_number": 3993,
+      "date": "05-05-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1807
+    },
+    {
+      "id": 228,
+      "order_number": 3864,
+      "date": "01-28-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1474
+    },
+    {
+      "id": 229,
+      "order_number": 4050,
+      "date": "10-10-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2137
+    },
+    {
+      "id": 230,
+      "order_number": 4050,
+      "date": "10-10-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 2185
+    },
+    {
+      "id": 231,
+      "order_number": 3859,
+      "date": "11-12-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 682
+    },
+    {
+      "id": 232,
+      "order_number": 4024,
+      "date": "09-01-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 753
+    },
+    {
+      "id": 233,
+      "order_number": 3882,
+      "date": "10-24-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1802
+    },
+    {
+      "id": 234,
+      "order_number": 3859,
+      "date": "11-12-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 2395
+    },
+    {
+      "id": 235,
+      "order_number": 3864,
+      "date": "01-28-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 622
+    },
+    {
+      "id": 236,
+      "order_number": 3862,
+      "date": "11-04-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1289
+    },
+    {
+      "id": 237,
+      "order_number": 3825,
+      "date": "05-02-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1498
+    },
+    {
+      "id": 238,
+      "order_number": 3825,
+      "date": "05-02-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2785
+    },
+    {
+      "id": 239,
+      "order_number": 4003,
+      "date": "08-28-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 982
+    },
+    {
+      "id": 240,
+      "order_number": 4029,
+      "date": "12-01-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2664
+    },
+    {
+      "id": 241,
+      "order_number": 3854,
+      "date": "01-14-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2008
+    },
+    {
+      "id": 242,
+      "order_number": 4049,
+      "date": "02-09-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1165
+    },
+    {
+      "id": 243,
+      "order_number": 4032,
+      "date": "11-24-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 389
+    },
+    {
+      "id": 244,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1292
+    },
+    {
+      "id": 245,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 2680
+    },
+    {
+      "id": 246,
+      "order_number": 3958,
+      "date": "09-13-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1848
+    },
+    {
+      "id": 247,
+      "order_number": 4076,
+      "date": "07-10-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2734
+    },
+    {
+      "id": 248,
+      "order_number": 3938,
+      "date": "03-12-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2460
+    },
+    {
+      "id": 249,
+      "order_number": 3905,
+      "date": "10-10-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2670
+    },
+    {
+      "id": 250,
+      "order_number": 4077,
+      "date": "12-12-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2270
+    },
+    {
+      "id": 251,
+      "order_number": 3989,
+      "date": "02-15-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2308
+    },
+    {
+      "id": 252,
+      "order_number": 3940,
+      "date": "05-25-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2177
+    },
+    {
+      "id": 253,
+      "order_number": 3844,
+      "date": "06-08-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2296
+    },
+    {
+      "id": 254,
+      "order_number": 4029,
+      "date": "12-01-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1751
+    },
+    {
+      "id": 255,
+      "order_number": 4035,
+      "date": "02-11-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 424
+    },
+    {
+      "id": 256,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1581
+    },
+    {
+      "id": 257,
+      "order_number": 3848,
+      "date": "02-12-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1578
+    },
+    {
+      "id": 258,
+      "order_number": 3971,
+      "date": "10-06-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1121
+    },
+    {
+      "id": 259,
+      "order_number": 3959,
+      "date": "05-02-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2550
+    },
+    {
+      "id": 260,
+      "order_number": 3964,
+      "date": "10-05-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 2768
+    },
+    {
+      "id": 261,
+      "order_number": 3934,
+      "date": "04-07-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 2463
+    },
+    {
+      "id": 262,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1613
+    },
+    {
+      "id": 263,
+      "order_number": 3918,
+      "date": "06-23-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1617
+    },
+    {
+      "id": 264,
+      "order_number": 3820,
+      "date": "10-13-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1314
+    },
+    {
+      "id": 265,
+      "order_number": 3832,
+      "date": "02-15-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 734
+    },
+    {
+      "id": 266,
+      "order_number": 4052,
+      "date": "08-05-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2199
+    },
+    {
+      "id": 267,
+      "order_number": 4039,
+      "date": "05-24-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 663
+    },
+    {
+      "id": 268,
+      "order_number": 4059,
+      "date": "05-07-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2086
+    },
+    {
+      "id": 269,
+      "order_number": 4006,
+      "date": "03-14-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 1136
+    },
+    {
+      "id": 270,
+      "order_number": 4078,
+      "date": "05-18-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 2528
+    },
+    {
+      "id": 271,
+      "order_number": 4068,
+      "date": "10-24-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2221
+    },
+    {
+      "id": 272,
+      "order_number": 3822,
+      "date": "08-15-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1960
+    },
+    {
+      "id": 273,
+      "order_number": 3961,
+      "date": "10-28-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1497
+    },
+    {
+      "id": 274,
+      "order_number": 3823,
+      "date": "06-11-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 2167
+    },
+    {
+      "id": 275,
+      "order_number": 3889,
+      "date": "10-16-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1992
+    },
+    {
+      "id": 276,
+      "order_number": 3995,
+      "date": "06-25-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2392
+    },
+    {
+      "id": 277,
+      "order_number": 4000,
+      "date": "04-23-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1848
+    },
+    {
+      "id": 278,
+      "order_number": 3892,
+      "date": "03-21-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2352
+    },
+    {
+      "id": 279,
+      "order_number": 3867,
+      "date": "06-08-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 452
+    },
+    {
+      "id": 280,
+      "order_number": 3839,
+      "date": "06-10-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 2536
+    },
+    {
+      "id": 281,
+      "order_number": 4049,
+      "date": "02-09-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 778
+    },
+    {
+      "id": 282,
+      "order_number": 4012,
+      "date": "04-20-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2616
+    },
+    {
+      "id": 283,
+      "order_number": 3971,
+      "date": "10-06-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 706
+    },
+    {
+      "id": 284,
+      "order_number": 3862,
+      "date": "11-04-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1452
+    },
+    {
+      "id": 285,
+      "order_number": 3886,
+      "date": "12-03-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1411
+    },
+    {
+      "id": 286,
+      "order_number": 3954,
+      "date": "06-19-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2737
+    },
+    {
+      "id": 287,
+      "order_number": 4028,
+      "date": "10-06-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2103
+    },
+    {
+      "id": 288,
+      "order_number": 3945,
+      "date": "04-07-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1794
+    },
+    {
+      "id": 289,
+      "order_number": 3912,
+      "date": "06-15-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1111
+    },
+    {
+      "id": 290,
+      "order_number": 3828,
+      "date": "02-22-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1896
+    },
+    {
+      "id": 291,
+      "order_number": 3852,
+      "date": "08-04-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1738
+    },
+    {
+      "id": 292,
+      "order_number": 4003,
+      "date": "08-28-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2046
+    },
+    {
+      "id": 293,
+      "order_number": 3976,
+      "date": "05-02-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 572
+    },
+    {
+      "id": 294,
+      "order_number": 3858,
+      "date": "10-28-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 2689
+    },
+    {
+      "id": 295,
+      "order_number": 3989,
+      "date": "02-15-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2187
+    },
+    {
+      "id": 296,
+      "order_number": 3884,
+      "date": "06-14-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1933
+    },
+    {
+      "id": 297,
+      "order_number": 3876,
+      "date": "08-22-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1415
+    },
+    {
+      "id": 298,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1887
+    },
+    {
+      "id": 299,
+      "order_number": 4043,
+      "date": "07-10-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 832
+    },
+    {
+      "id": 300,
+      "order_number": 3848,
+      "date": "02-12-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1198
+    },
+    {
+      "id": 301,
+      "order_number": 3970,
+      "date": "11-02-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2298
+    },
+    {
+      "id": 302,
+      "order_number": 3908,
+      "date": "02-09-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2540
+    },
+    {
+      "id": 303,
+      "order_number": 3848,
+      "date": "02-12-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 2175
+    },
+    {
+      "id": 304,
+      "order_number": 3943,
+      "date": "08-17-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2322
+    },
+    {
+      "id": 305,
+      "order_number": 3916,
+      "date": "10-07-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 2107
+    },
+    {
+      "id": 306,
+      "order_number": 3888,
+      "date": "09-25-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2444
+    },
+    {
+      "id": 307,
+      "order_number": 3816,
+      "date": "07-05-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1845
+    },
+    {
+      "id": 308,
+      "order_number": 3871,
+      "date": "12-21-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 669
+    },
+    {
+      "id": 309,
+      "order_number": 3997,
+      "date": "08-02-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 2244
+    },
+    {
+      "id": 310,
+      "order_number": 4014,
+      "date": "01-21-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1212
+    },
+    {
+      "id": 311,
+      "order_number": 3850,
+      "date": "07-26-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 2554
+    },
+    {
+      "id": 312,
+      "order_number": 4063,
+      "date": "11-26-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 522
+    },
+    {
+      "id": 313,
+      "order_number": 3888,
+      "date": "09-25-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2421
+    },
+    {
+      "id": 314,
+      "order_number": 3836,
+      "date": "09-24-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 1007
+    },
+    {
+      "id": 315,
+      "order_number": 4023,
+      "date": "01-26-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1513
+    },
+    {
+      "id": 316,
+      "order_number": 4005,
+      "date": "02-09-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2399
+    },
+    {
+      "id": 317,
+      "order_number": 4020,
+      "date": "07-07-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1034
+    },
+    {
+      "id": 318,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2074
+    },
+    {
+      "id": 319,
+      "order_number": 4066,
+      "date": "05-02-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1742
+    },
+    {
+      "id": 320,
+      "order_number": 3898,
+      "date": "04-05-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 1409
+    },
+    {
+      "id": 321,
+      "order_number": 3952,
+      "date": "09-13-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2749
+    },
+    {
+      "id": 322,
+      "order_number": 3937,
+      "date": "03-27-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 738
+    },
+    {
+      "id": 323,
+      "order_number": 3993,
+      "date": "05-05-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2449
+    },
+    {
+      "id": 324,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2241
+    },
+    {
+      "id": 325,
+      "order_number": 3915,
+      "date": "01-02-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 2459
+    },
+    {
+      "id": 326,
+      "order_number": 3842,
+      "date": "12-17-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 1686
+    },
+    {
+      "id": 327,
+      "order_number": 4080,
+      "date": "08-23-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1125
+    },
+    {
+      "id": 328,
+      "order_number": 3911,
+      "date": "01-25-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1465
+    },
+    {
+      "id": 329,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 894
+    },
+    {
+      "id": 330,
+      "order_number": 3948,
+      "date": "03-02-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1776
+    },
+    {
+      "id": 331,
+      "order_number": 3828,
+      "date": "02-22-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 532
+    },
+    {
+      "id": 332,
+      "order_number": 3839,
+      "date": "06-10-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 838
+    },
+    {
+      "id": 333,
+      "order_number": 3933,
+      "date": "12-01-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 1493
+    },
+    {
+      "id": 334,
+      "order_number": 3845,
+      "date": "05-20-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2489
+    },
+    {
+      "id": 335,
+      "order_number": 3856,
+      "date": "12-08-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1928
+    },
+    {
+      "id": 336,
+      "order_number": 3963,
+      "date": "11-11-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 1701
+    },
+    {
+      "id": 337,
+      "order_number": 3974,
+      "date": "05-25-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1173
+    },
+    {
+      "id": 338,
+      "order_number": 4006,
+      "date": "03-14-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 2271
+    },
+    {
+      "id": 339,
+      "order_number": 3963,
+      "date": "11-11-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1298
+    },
+    {
+      "id": 340,
+      "order_number": 3850,
+      "date": "07-26-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 2098
+    },
+    {
+      "id": 341,
+      "order_number": 3991,
+      "date": "01-03-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 980
+    },
+    {
+      "id": 342,
+      "order_number": 3885,
+      "date": "07-12-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 420
+    },
+    {
+      "id": 343,
+      "order_number": 3856,
+      "date": "12-08-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 2251
+    },
+    {
+      "id": 344,
+      "order_number": 3870,
+      "date": "04-03-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 361
+    },
+    {
+      "id": 345,
+      "order_number": 3840,
+      "date": "04-23-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1983
+    },
+    {
+      "id": 346,
+      "order_number": 3908,
+      "date": "02-09-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2161
+    },
+    {
+      "id": 347,
+      "order_number": 3837,
+      "date": "12-01-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 484
+    },
+    {
+      "id": 348,
+      "order_number": 3923,
+      "date": "09-19-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 2161
+    },
+    {
+      "id": 349,
+      "order_number": 4031,
+      "date": "08-26-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 858
+    },
+    {
+      "id": 350,
+      "order_number": 3899,
+      "date": "09-04-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2019
+    },
+    {
+      "id": 351,
+      "order_number": 3863,
+      "date": "10-27-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 808
+    },
+    {
+      "id": 352,
+      "order_number": 3850,
+      "date": "07-26-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 501
+    },
+    {
+      "id": 353,
+      "order_number": 3844,
+      "date": "06-08-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1596
+    },
+    {
+      "id": 354,
+      "order_number": 3869,
+      "date": "12-15-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 810
+    },
+    {
+      "id": 355,
+      "order_number": 3952,
+      "date": "09-13-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1716
+    },
+    {
+      "id": 356,
+      "order_number": 3838,
+      "date": "03-19-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 1835
+    },
+    {
+      "id": 357,
+      "order_number": 4025,
+      "date": "12-04-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 2429
+    },
+    {
+      "id": 358,
+      "order_number": 3968,
+      "date": "02-26-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1152
+    },
+    {
+      "id": 359,
+      "order_number": 4038,
+      "date": "10-24-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2238
+    },
+    {
+      "id": 360,
+      "order_number": 3880,
+      "date": "08-01-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1957
+    },
+    {
+      "id": 361,
+      "order_number": 3976,
+      "date": "05-02-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1279
+    },
+    {
+      "id": 362,
+      "order_number": 3959,
+      "date": "05-02-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 2316
+    },
+    {
+      "id": 363,
+      "order_number": 3959,
+      "date": "05-02-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 351
+    },
+    {
+      "id": 364,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2503
+    },
+    {
+      "id": 365,
+      "order_number": 3864,
+      "date": "01-28-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2196
+    },
+    {
+      "id": 366,
+      "order_number": 3854,
+      "date": "01-14-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 567
+    },
+    {
+      "id": 367,
+      "order_number": 4071,
+      "date": "11-10-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 2330
+    },
+    {
+      "id": 368,
+      "order_number": 4009,
+      "date": "04-21-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 1777
+    },
+    {
+      "id": 369,
+      "order_number": 3951,
+      "date": "07-07-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2610
+    },
+    {
+      "id": 370,
+      "order_number": 3985,
+      "date": "12-01-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1222
+    },
+    {
+      "id": 371,
+      "order_number": 3854,
+      "date": "01-14-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 356
+    },
+    {
+      "id": 372,
+      "order_number": 4028,
+      "date": "10-06-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2532
+    },
+    {
+      "id": 373,
+      "order_number": 3985,
+      "date": "12-01-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1833
+    },
+    {
+      "id": 374,
+      "order_number": 3830,
+      "date": "06-23-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 2283
+    },
+    {
+      "id": 375,
+      "order_number": 3816,
+      "date": "07-05-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 726
+    },
+    {
+      "id": 376,
+      "order_number": 3985,
+      "date": "12-01-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 807
+    },
+    {
+      "id": 377,
+      "order_number": 4073,
+      "date": "08-24-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1377
+    },
+    {
+      "id": 378,
+      "order_number": 4078,
+      "date": "05-18-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 417
+    },
+    {
+      "id": 379,
+      "order_number": 3983,
+      "date": "04-11-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1794
+    },
+    {
+      "id": 380,
+      "order_number": 3912,
+      "date": "06-15-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1989
+    },
+    {
+      "id": 381,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2687
+    },
+    {
+      "id": 382,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1767
+    },
+    {
+      "id": 383,
+      "order_number": 4069,
+      "date": "08-26-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1057
+    },
+    {
+      "id": 384,
+      "order_number": 3834,
+      "date": "10-20-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2529
+    },
+    {
+      "id": 385,
+      "order_number": 3943,
+      "date": "08-17-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 655
+    },
+    {
+      "id": 386,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 885
+    },
+    {
+      "id": 387,
+      "order_number": 3878,
+      "date": "12-18-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2532
+    },
+    {
+      "id": 388,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2059
+    },
+    {
+      "id": 389,
+      "order_number": 3874,
+      "date": "06-03-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 350
+    },
+    {
+      "id": 390,
+      "order_number": 3899,
+      "date": "09-04-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 1825
+    },
+    {
+      "id": 391,
+      "order_number": 3817,
+      "date": "09-09-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 750
+    },
+    {
+      "id": 392,
+      "order_number": 3900,
+      "date": "11-16-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 610
+    },
+    {
+      "id": 393,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 2565
+    },
+    {
+      "id": 394,
+      "order_number": 4067,
+      "date": "12-22-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 1608
+    },
+    {
+      "id": 395,
+      "order_number": 4019,
+      "date": "11-10-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 1973
+    },
+    {
+      "id": 396,
+      "order_number": 4020,
+      "date": "07-07-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 845
+    },
+    {
+      "id": 397,
+      "order_number": 3863,
+      "date": "10-27-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 392
+    },
+    {
+      "id": 398,
+      "order_number": 4066,
+      "date": "05-02-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1502
+    },
+    {
+      "id": 399,
+      "order_number": 3958,
+      "date": "09-13-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2748
+    },
+    {
+      "id": 400,
+      "order_number": 3961,
+      "date": "10-28-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1297
+    },
+    {
+      "id": 401,
+      "order_number": 4015,
+      "date": "10-24-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2536
+    },
+    {
+      "id": 402,
+      "order_number": 4078,
+      "date": "05-18-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1968
+    },
+    {
+      "id": 403,
+      "order_number": 4011,
+      "date": "01-11-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 2640
+    },
+    {
+      "id": 404,
+      "order_number": 3853,
+      "date": "02-11-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2568
+    },
+    {
+      "id": 405,
+      "order_number": 4023,
+      "date": "01-26-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 941
+    },
+    {
+      "id": 406,
+      "order_number": 3943,
+      "date": "08-17-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1655
+    },
+    {
+      "id": 407,
+      "order_number": 4059,
+      "date": "05-07-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1144
+    },
+    {
+      "id": 408,
+      "order_number": 4078,
+      "date": "05-18-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2390
+    },
+    {
+      "id": 409,
+      "order_number": 3982,
+      "date": "07-12-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 714
+    },
+    {
+      "id": 410,
+      "order_number": 3968,
+      "date": "02-26-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2067
+    },
+    {
+      "id": 411,
+      "order_number": 4080,
+      "date": "08-23-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1088
+    },
+    {
+      "id": 412,
+      "order_number": 3898,
+      "date": "04-05-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1425
+    },
+    {
+      "id": 413,
+      "order_number": 3959,
+      "date": "05-02-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1192
+    },
+    {
+      "id": 414,
+      "order_number": 3855,
+      "date": "01-03-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 864
+    },
+    {
+      "id": 415,
+      "order_number": 3917,
+      "date": "04-10-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1151
+    },
+    {
+      "id": 416,
+      "order_number": 3992,
+      "date": "06-15-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 631
+    },
+    {
+      "id": 417,
+      "order_number": 4043,
+      "date": "07-10-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1648
+    },
+    {
+      "id": 418,
+      "order_number": 3846,
+      "date": "12-24-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1895
+    },
+    {
+      "id": 419,
+      "order_number": 4028,
+      "date": "10-06-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1962
+    },
+    {
+      "id": 420,
+      "order_number": 3824,
+      "date": "04-22-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2454
+    },
+    {
+      "id": 421,
+      "order_number": 3829,
+      "date": "07-28-2023",
+      "manager_id": 6,
+      "category_id": 1,
+      "sum": 2366
+    },
+    {
+      "id": 422,
+      "order_number": 3999,
+      "date": "03-11-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2526
+    },
+    {
+      "id": 423,
+      "order_number": 3816,
+      "date": "07-05-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 2133
+    },
+    {
+      "id": 424,
+      "order_number": 3855,
+      "date": "01-03-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 1955
+    },
+    {
+      "id": 425,
+      "order_number": 3952,
+      "date": "09-13-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 964
+    },
+    {
+      "id": 426,
+      "order_number": 3841,
+      "date": "03-27-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 878
+    },
+    {
+      "id": 427,
+      "order_number": 4025,
+      "date": "12-04-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1341
+    },
+    {
+      "id": 428,
+      "order_number": 3998,
+      "date": "09-11-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 2668
+    },
+    {
+      "id": 429,
+      "order_number": 4079,
+      "date": "08-10-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2598
+    },
+    {
+      "id": 430,
+      "order_number": 3965,
+      "date": "12-09-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 663
+    },
+    {
+      "id": 431,
+      "order_number": 3884,
+      "date": "06-14-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 443
+    },
+    {
+      "id": 432,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2286
+    },
+    {
+      "id": 433,
+      "order_number": 3940,
+      "date": "05-25-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2463
+    },
+    {
+      "id": 434,
+      "order_number": 3851,
+      "date": "06-17-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2428
+    },
+    {
+      "id": 435,
+      "order_number": 3922,
+      "date": "02-23-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 1357
+    },
+    {
+      "id": 436,
+      "order_number": 3864,
+      "date": "01-28-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 958
+    },
+    {
+      "id": 437,
+      "order_number": 3850,
+      "date": "07-26-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2529
+    },
+    {
+      "id": 438,
+      "order_number": 3969,
+      "date": "12-17-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 835
+    },
+    {
+      "id": 439,
+      "order_number": 3817,
+      "date": "09-09-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 824
+    },
+    {
+      "id": 440,
+      "order_number": 4041,
+      "date": "11-03-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 2751
+    },
+    {
+      "id": 441,
+      "order_number": 3860,
+      "date": "08-16-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1850
+    },
+    {
+      "id": 442,
+      "order_number": 3859,
+      "date": "11-12-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1731
+    },
+    {
+      "id": 443,
+      "order_number": 3977,
+      "date": "08-23-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1017
+    },
+    {
+      "id": 444,
+      "order_number": 3992,
+      "date": "06-15-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 447
+    },
+    {
+      "id": 445,
+      "order_number": 4033,
+      "date": "12-21-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2237
+    },
+    {
+      "id": 446,
+      "order_number": 4076,
+      "date": "07-10-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 776
+    },
+    {
+      "id": 447,
+      "order_number": 4017,
+      "date": "07-27-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 1234
+    },
+    {
+      "id": 448,
+      "order_number": 3865,
+      "date": "11-24-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 1291
+    },
+    {
+      "id": 449,
+      "order_number": 3998,
+      "date": "09-11-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1367
+    },
+    {
+      "id": 450,
+      "order_number": 3824,
+      "date": "04-22-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1838
+    },
+    {
+      "id": 451,
+      "order_number": 3822,
+      "date": "08-15-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1929
+    },
+    {
+      "id": 452,
+      "order_number": 3865,
+      "date": "11-24-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1942
+    },
+    {
+      "id": 453,
+      "order_number": 3947,
+      "date": "06-03-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2610
+    },
+    {
+      "id": 454,
+      "order_number": 3907,
+      "date": "01-01-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 655
+    },
+    {
+      "id": 455,
+      "order_number": 3944,
+      "date": "06-28-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2329
+    },
+    {
+      "id": 456,
+      "order_number": 3916,
+      "date": "10-07-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1241
+    },
+    {
+      "id": 457,
+      "order_number": 4012,
+      "date": "04-20-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2567
+    },
+    {
+      "id": 458,
+      "order_number": 4043,
+      "date": "07-10-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 766
+    },
+    {
+      "id": 459,
+      "order_number": 4034,
+      "date": "11-07-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 2045
+    },
+    {
+      "id": 460,
+      "order_number": 4071,
+      "date": "11-10-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2425
+    },
+    {
+      "id": 461,
+      "order_number": 3887,
+      "date": "03-17-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 377
+    },
+    {
+      "id": 462,
+      "order_number": 4050,
+      "date": "10-10-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 647
+    },
+    {
+      "id": 463,
+      "order_number": 3943,
+      "date": "08-17-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 354
+    },
+    {
+      "id": 464,
+      "order_number": 3895,
+      "date": "05-26-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2151
+    },
+    {
+      "id": 465,
+      "order_number": 4034,
+      "date": "11-07-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 1055
+    },
+    {
+      "id": 466,
+      "order_number": 4051,
+      "date": "08-15-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 788
+    },
+    {
+      "id": 467,
+      "order_number": 4059,
+      "date": "05-07-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 2640
+    },
+    {
+      "id": 468,
+      "order_number": 4025,
+      "date": "12-04-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 895
+    },
+    {
+      "id": 469,
+      "order_number": 3980,
+      "date": "06-15-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 930
+    },
+    {
+      "id": 470,
+      "order_number": 4038,
+      "date": "10-24-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 569
+    },
+    {
+      "id": 471,
+      "order_number": 4062,
+      "date": "02-01-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 1181
+    },
+    {
+      "id": 472,
+      "order_number": 4004,
+      "date": "10-14-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 2386
+    },
+    {
+      "id": 473,
+      "order_number": 3975,
+      "date": "09-07-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 2743
+    },
+    {
+      "id": 474,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1006
+    },
+    {
+      "id": 475,
+      "order_number": 3927,
+      "date": "07-04-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 420
+    },
+    {
+      "id": 476,
+      "order_number": 4042,
+      "date": "01-12-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2229
+    },
+    {
+      "id": 477,
+      "order_number": 3995,
+      "date": "06-25-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 2605
+    },
+    {
+      "id": 478,
+      "order_number": 3877,
+      "date": "03-20-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 2177
+    },
+    {
+      "id": 479,
+      "order_number": 3865,
+      "date": "11-24-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 771
+    },
+    {
+      "id": 480,
+      "order_number": 3899,
+      "date": "09-04-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 2055
+    },
+    {
+      "id": 481,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 885
+    },
+    {
+      "id": 482,
+      "order_number": 4025,
+      "date": "12-04-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 1108
+    },
+    {
+      "id": 483,
+      "order_number": 3912,
+      "date": "06-15-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 998
+    },
+    {
+      "id": 484,
+      "order_number": 4077,
+      "date": "12-12-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 520
+    },
+    {
+      "id": 485,
+      "order_number": 4013,
+      "date": "11-08-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 2303
+    },
+    {
+      "id": 486,
+      "order_number": 3850,
+      "date": "07-26-2023",
+      "manager_id": 2,
+      "category_id": 5,
+      "sum": 662
+    },
+    {
+      "id": 487,
+      "order_number": 3826,
+      "date": "05-25-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 444
+    },
+    {
+      "id": 488,
+      "order_number": 4057,
+      "date": "04-18-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2740
+    },
+    {
+      "id": 489,
+      "order_number": 3910,
+      "date": "05-13-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 840
+    },
+    {
+      "id": 490,
+      "order_number": 3871,
+      "date": "12-21-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 679
+    },
+    {
+      "id": 491,
+      "order_number": 3826,
+      "date": "05-25-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2362
+    },
+    {
+      "id": 492,
+      "order_number": 4076,
+      "date": "07-10-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 2438
+    },
+    {
+      "id": 493,
+      "order_number": 4073,
+      "date": "08-24-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1844
+    },
+    {
+      "id": 494,
+      "order_number": 3825,
+      "date": "05-02-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1513
+    },
+    {
+      "id": 495,
+      "order_number": 3903,
+      "date": "01-07-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 987
+    },
+    {
+      "id": 496,
+      "order_number": 3822,
+      "date": "08-15-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1124
+    },
+    {
+      "id": 497,
+      "order_number": 3990,
+      "date": "05-18-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1187
+    },
+    {
+      "id": 498,
+      "order_number": 4004,
+      "date": "10-14-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1133
+    },
+    {
+      "id": 499,
+      "order_number": 3981,
+      "date": "05-11-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 489
+    },
+    {
+      "id": 500,
+      "order_number": 3998,
+      "date": "09-11-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 2204
+    },
+    {
+      "id": 501,
+      "order_number": 3890,
+      "date": "06-04-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 2434
+    },
+    {
+      "id": 502,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1474
+    },
+    {
+      "id": 503,
+      "order_number": 4007,
+      "date": "08-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1116
+    },
+    {
+      "id": 504,
+      "order_number": 3878,
+      "date": "12-18-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1203
+    },
+    {
+      "id": 505,
+      "order_number": 3971,
+      "date": "10-06-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2219
+    },
+    {
+      "id": 506,
+      "order_number": 3946,
+      "date": "03-12-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 775
+    },
+    {
+      "id": 507,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 1277
+    },
+    {
+      "id": 508,
+      "order_number": 4055,
+      "date": "02-18-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1807
+    },
+    {
+      "id": 509,
+      "order_number": 3839,
+      "date": "06-10-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 2195
+    },
+    {
+      "id": 510,
+      "order_number": 3868,
+      "date": "10-02-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 387
+    },
+    {
+      "id": 511,
+      "order_number": 3971,
+      "date": "10-06-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 1904
+    },
+    {
+      "id": 512,
+      "order_number": 4068,
+      "date": "10-24-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1721
+    },
+    {
+      "id": 513,
+      "order_number": 3935,
+      "date": "10-04-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 677
+    },
+    {
+      "id": 514,
+      "order_number": 4011,
+      "date": "01-11-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 1077
+    },
+    {
+      "id": 515,
+      "order_number": 4036,
+      "date": "03-13-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 1484
+    },
+    {
+      "id": 516,
+      "order_number": 3892,
+      "date": "03-21-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1555
+    },
+    {
+      "id": 517,
+      "order_number": 3901,
+      "date": "03-23-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 2493
+    },
+    {
+      "id": 518,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1060
+    },
+    {
+      "id": 519,
+      "order_number": 3871,
+      "date": "12-21-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 2258
+    },
+    {
+      "id": 520,
+      "order_number": 3897,
+      "date": "04-28-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1900
+    },
+    {
+      "id": 521,
+      "order_number": 4044,
+      "date": "12-03-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1316
+    },
+    {
+      "id": 522,
+      "order_number": 3884,
+      "date": "06-14-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1202
+    },
+    {
+      "id": 523,
+      "order_number": 3976,
+      "date": "05-02-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 2514
+    },
+    {
+      "id": 524,
+      "order_number": 4045,
+      "date": "09-03-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 1873
+    },
+    {
+      "id": 525,
+      "order_number": 4016,
+      "date": "04-12-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2500
+    },
+    {
+      "id": 526,
+      "order_number": 3859,
+      "date": "11-12-2023",
+      "manager_id": 3,
+      "category_id": 1,
+      "sum": 1439
+    },
+    {
+      "id": 527,
+      "order_number": 4027,
+      "date": "05-08-2023",
+      "manager_id": 6,
+      "category_id": 3,
+      "sum": 531
+    },
+    {
+      "id": 528,
+      "order_number": 4005,
+      "date": "02-09-2023",
+      "manager_id": 1,
+      "category_id": 2,
+      "sum": 494
+    },
+    {
+      "id": 529,
+      "order_number": 3946,
+      "date": "03-12-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 478
+    },
+    {
+      "id": 530,
+      "order_number": 3883,
+      "date": "08-22-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2533
+    },
+    {
+      "id": 531,
+      "order_number": 3955,
+      "date": "12-01-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1338
+    },
+    {
+      "id": 532,
+      "order_number": 4015,
+      "date": "10-24-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 1493
+    },
+    {
+      "id": 533,
+      "order_number": 4026,
+      "date": "01-25-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 1188
+    },
+    {
+      "id": 534,
+      "order_number": 3960,
+      "date": "08-12-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 1161
+    },
+    {
+      "id": 535,
+      "order_number": 4074,
+      "date": "11-05-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 836
+    },
+    {
+      "id": 536,
+      "order_number": 4039,
+      "date": "05-24-2023",
+      "manager_id": 2,
+      "category_id": 2,
+      "sum": 592
+    },
+    {
+      "id": 537,
+      "order_number": 3944,
+      "date": "06-28-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 455
+    },
+    {
+      "id": 538,
+      "order_number": 4071,
+      "date": "11-10-2023",
+      "manager_id": 4,
+      "category_id": 5,
+      "sum": 1472
+    },
+    {
+      "id": 539,
+      "order_number": 4037,
+      "date": "01-08-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 1569
+    },
+    {
+      "id": 540,
+      "order_number": 3889,
+      "date": "10-16-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 2321
+    },
+    {
+      "id": 541,
+      "order_number": 3839,
+      "date": "06-10-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2130
+    },
+    {
+      "id": 542,
+      "order_number": 4042,
+      "date": "01-12-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 1045
+    },
+    {
+      "id": 543,
+      "order_number": 4041,
+      "date": "11-03-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1160
+    },
+    {
+      "id": 544,
+      "order_number": 3903,
+      "date": "01-07-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1334
+    },
+    {
+      "id": 545,
+      "order_number": 4074,
+      "date": "11-05-2023",
+      "manager_id": 4,
+      "category_id": 1,
+      "sum": 1251
+    },
+    {
+      "id": 546,
+      "order_number": 3951,
+      "date": "07-07-2023",
+      "manager_id": 5,
+      "category_id": 4,
+      "sum": 844
+    },
+    {
+      "id": 547,
+      "order_number": 3879,
+      "date": "04-11-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 2467
+    },
+    {
+      "id": 548,
+      "order_number": 3976,
+      "date": "05-02-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2442
+    },
+    {
+      "id": 549,
+      "order_number": 4007,
+      "date": "08-08-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 2318
+    },
+    {
+      "id": 550,
+      "order_number": 3981,
+      "date": "05-11-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 1672
+    },
+    {
+      "id": 551,
+      "order_number": 4008,
+      "date": "06-16-2023",
+      "manager_id": 1,
+      "category_id": 1,
+      "sum": 2284
+    },
+    {
+      "id": 552,
+      "order_number": 3951,
+      "date": "07-07-2023",
+      "manager_id": 5,
+      "category_id": 5,
+      "sum": 2434
+    },
+    {
+      "id": 553,
+      "order_number": 3960,
+      "date": "08-12-2023",
+      "manager_id": 3,
+      "category_id": 5,
+      "sum": 2767
+    },
+    {
+      "id": 554,
+      "order_number": 3916,
+      "date": "10-07-2023",
+      "manager_id": 4,
+      "category_id": 3,
+      "sum": 2231
+    },
+    {
+      "id": 555,
+      "order_number": 4066,
+      "date": "05-02-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 2737
+    },
+    {
+      "id": 556,
+      "order_number": 3930,
+      "date": "05-03-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1026
+    },
+    {
+      "id": 557,
+      "order_number": 4000,
+      "date": "04-23-2023",
+      "manager_id": 1,
+      "category_id": 5,
+      "sum": 805
+    },
+    {
+      "id": 558,
+      "order_number": 3909,
+      "date": "04-27-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 437
+    },
+    {
+      "id": 559,
+      "order_number": 3823,
+      "date": "06-11-2023",
+      "manager_id": 2,
+      "category_id": 1,
+      "sum": 1124
+    },
+    {
+      "id": 560,
+      "order_number": 4020,
+      "date": "07-07-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 1464
+    },
+    {
+      "id": 561,
+      "order_number": 4007,
+      "date": "08-08-2023",
+      "manager_id": 3,
+      "category_id": 3,
+      "sum": 2026
+    },
+    {
+      "id": 562,
+      "order_number": 3843,
+      "date": "04-10-2023",
+      "manager_id": 6,
+      "category_id": 4,
+      "sum": 1004
+    },
+    {
+      "id": 563,
+      "order_number": 3984,
+      "date": "12-07-2023",
+      "manager_id": 2,
+      "category_id": 4,
+      "sum": 2669
+    },
+    {
+      "id": 564,
+      "order_number": 3948,
+      "date": "03-02-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2729
+    },
+    {
+      "id": 565,
+      "order_number": 3858,
+      "date": "10-28-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 2266
+    },
+    {
+      "id": 566,
+      "order_number": 4032,
+      "date": "11-24-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1787
+    },
+    {
+      "id": 567,
+      "order_number": 3864,
+      "date": "01-28-2023",
+      "manager_id": 5,
+      "category_id": 1,
+      "sum": 1372
+    },
+    {
+      "id": 568,
+      "order_number": 3932,
+      "date": "11-02-2023",
+      "manager_id": 4,
+      "category_id": 4,
+      "sum": 1206
+    },
+    {
+      "id": 569,
+      "order_number": 3984,
+      "date": "12-07-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 2525
+    },
+    {
+      "id": 570,
+      "order_number": 3887,
+      "date": "03-17-2023",
+      "manager_id": 3,
+      "category_id": 4,
+      "sum": 1521
+    },
+    {
+      "id": 571,
+      "order_number": 3930,
+      "date": "05-03-2023",
+      "manager_id": 2,
+      "category_id": 3,
+      "sum": 1008
+    },
+    {
+      "id": 572,
+      "order_number": 4065,
+      "date": "07-12-2023",
+      "manager_id": 5,
+      "category_id": 2,
+      "sum": 2455
+    },
+    {
+      "id": 573,
+      "order_number": 3954,
+      "date": "06-19-2023",
+      "manager_id": 5,
+      "category_id": 3,
+      "sum": 1027
+    },
+    {
+      "id": 574,
+      "order_number": 4068,
+      "date": "10-24-2023",
+      "manager_id": 1,
+      "category_id": 3,
+      "sum": 2070
+    },
+    {
+      "id": 575,
+      "order_number": 3893,
+      "date": "08-18-2023",
+      "manager_id": 6,
+      "category_id": 5,
+      "sum": 1382
+    },
+    {
+      "id": 576,
+      "order_number": 3924,
+      "date": "07-01-2023",
+      "manager_id": 4,
+      "category_id": 2,
+      "sum": 895
+    },
+    {
+      "id": 577,
+      "order_number": 3960,
+      "date": "08-12-2023",
+      "manager_id": 3,
+      "category_id": 2,
+      "sum": 1947
+    },
+    {
+      "id": 578,
+      "order_number": 4052,
+      "date": "08-05-2023",
+      "manager_id": 6,
+      "category_id": 2,
+      "sum": 1944
+    },
+    {
+      "id": 579,
+      "order_number": 4005,
+      "date": "02-09-2023",
+      "manager_id": 1,
+      "category_id": 4,
+      "sum": 766
     }
   ]
 }
