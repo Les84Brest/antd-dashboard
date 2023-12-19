@@ -4,37 +4,43 @@
       "id": 1,
       "manager_name": "Brian Jones",
       "phone": 1235624813,
-      "email": "br.jones@company.com"
+      "email": "br.jones@company.com",
+      "avatar": "avatar1"
     },
     {
       "id": 2,
       "manager_name": "Patricia Russell",
       "phone": 1235872928,
-      "email": "patric@company.com"
+      "email": "patric@company.com",
+      "avatar": "avatar2"
     },
     {
       "id": 3,
       "manager_name": "Harry Robinson",
       "phone": 1236062423,
-      "email": "robinson@company.com"
+      "email": "robinson@company.com",
+      "avatar": "avatar3"
     },
     {
       "id": 4,
       "manager_name": "Carolyn Lane",
       "phone": 1235965749,
-      "email": "carolin@company.com"
+      "email": "carolin@company.com",
+      "avatar": "avatar4"
     },
     {
       "id": 5,
       "manager_name": "Marian Frazier",
       "phone": 1235483357,
-      "email": "marian.fr@company.com"
+      "email": "marian.fr@company.com",
+      "avatar": "avatar5"
     },
     {
       "id": 6,
       "manager_name": "Carl Williams",
       "phone": 1236023519,
-      "email": "carl.ws@company.com"
+      "email": "carl.ws@company.com",
+      "avatar": "avatar6"
     }
   ],
   "categories": [

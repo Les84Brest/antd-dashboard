@@ -24,7 +24,7 @@
     "src"
   ],
   "typeRoots": [
-    "./typings",
+    "./types",
     "./node_modules/@types/"
   ]
 }

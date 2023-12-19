@@ -20,6 +20,10 @@ export const ManagerAvatar = styled.img`
     object-fit: contain;
     background-position: center, center;
     background-origin: content-box;
+    
+    @media screen and (max-width: 768px)  {
+        width: 180px;
+    }
 `;
 
 export const ManagerText = styled.div`
@@ -34,8 +38,11 @@ export const ManagerTextRow = styled.div`
     display: flex;
     align-items: center;
     justify-content: start;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 700;
+    @media screen and (max-width: 768px)  {
+        font-size: 16px;
+    }
 `;
 
 export const ManagerIconWrap=styled.span`
@@ -47,4 +54,19 @@ export const Role = styled.div`
     color: #777;
     font-style: italic;
     font-weight: 500;
+`
+export  const ManagerContacts = styled.span`
+    margin-top: 7px;
+    `
+export  const ManagerContactsLabel = styled.span`
+    font-size: 16px;
+    font-weight: 600;
+    `;
+
+export const ContactName = styled.span`
+    display: inline-block;
+    margin-right: 5px;
+    `
+export const ContactData = styled.span`
+    font-weight: 600;
 `
