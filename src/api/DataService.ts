@@ -1,11 +1,15 @@
 import axios, {AxiosResponse} from "axios";
 import {IOrderLine, IManager, ICategory} from "../store/types"
 
-
 const SERVER_URL = 'http://localhost:3005';
-
-
+/**
+ *  @description class to get data from backend and pass it to Mobx
+ */
 export default class DataService {
+    /**
+     * @description get categories data from backend
+     * @returns Promise<ICategory[]>
+     */
     static async getCategories(): Promise<ICategory[]> {
         try {
             const response: AxiosResponse<ICategory[]> = await axios.get(`${SERVER_URL}/categories`);
@@ -19,6 +23,10 @@ export default class DataService {
 
     }
 
+    /**
+     * @description get orders from backend
+     * @returns Promise<IOrderLine[]>
+     */
     static async getOrders(): Promise<IOrderLine[]> {
         try {
             const response: AxiosResponse<IOrderLine[]> = await axios.get(`${SERVER_URL}/orders`);
@@ -31,6 +39,11 @@ export default class DataService {
         }
 
     }
+
+    /**
+     * get general managers data from backend
+     * @returns  Promise<IManager[]>
+     */
 
     static async getManagers(): Promise<IManager[]> {
         try {

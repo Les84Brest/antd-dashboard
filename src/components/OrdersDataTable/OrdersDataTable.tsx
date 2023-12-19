@@ -1,4 +1,4 @@
-import {FC, useRef, Key, useState, useEffect} from 'react'
+import {FC, useRef,  useState, useEffect} from 'react'
 import {ICategory, IManager, IOrderLineBasic} from "../../store/types";
 import {Dropdown, Typography, Table, InputRef, Input, Space, Button, DatePicker, MenuProps} from 'antd';
 import type {TableProps} from 'antd';
@@ -10,6 +10,7 @@ import type {FilterConfirmProps} from 'antd/es/table/interface';
 import dayjs, {Dayjs} from 'dayjs';
 import isBetween from 'dayjs/plugin/isBetween'
 import {DATE_FORMAT} from "../../helper/config";
+import {ComponentWrap} from "../ui/ComponentWrap";
 
 const {Title} = Typography;
 
@@ -20,13 +21,19 @@ interface IRawOrderLine extends IOrderLineBasic {
 
 type DataIndex = keyof IRawOrderLine;
 
-
 interface OrdersDataTableProps {
     ordersData: IRawOrderLine[],
     managers: IManager[],
     categories: ICategory[]
 }
 
+/**
+ * @description Raw orders data
+ * @param ordersData
+ * @param managers
+ * @param categories
+ * @constructor
+ */
 export const OrdersDataTable: FC<OrdersDataTableProps> = ({ordersData, managers, categories}) => {
 
 
@@ -40,6 +47,8 @@ export const OrdersDataTable: FC<OrdersDataTableProps> = ({ordersData, managers,
     //handle reset filters
     const [filteredInfo, setFilteredInfo] = useState<Record<string, FilterValue | null>>({});
     const [sortedInfo, setSortedInfo] = useState<SorterResult<IRawOrderLine>>({});
+
+
 
     useEffect(() => {
         if (!isFilteredMode) {
@@ -283,14 +292,13 @@ export const OrdersDataTable: FC<OrdersDataTableProps> = ({ordersData, managers,
     }
 
     const handleTableChange: TableProps<IRawOrderLine>['onChange'] = (pagination, filters, sorter) => {
-        console.log('Various parameters', pagination, filters, sorter);
         setFilteredInfo(filters);
         setSortedInfo(sorter as SorterResult<IRawOrderLine>);
     };
 
     return (
         <>
-            <div className="ordersDataTitle">
+            <ComponentWrap>
                 <Title level={2}>
                     Order information
                 </Title>
@@ -319,7 +327,7 @@ export const OrdersDataTable: FC<OrdersDataTableProps> = ({ordersData, managers,
                         <Button
                             type="primary"
                             size={"large"}
-                            icon={<CalendarOutlined />}
+                            icon={<CalendarOutlined/>}
                             onClick={handleFilterDate}
                         >
                             Filter Date
@@ -335,9 +343,8 @@ export const OrdersDataTable: FC<OrdersDataTableProps> = ({ordersData, managers,
                     onChange={handleTableChange}
                     dataSource={tableDataSource}
                     scroll={{x: 1500}}
-
                 />
-            </div>
+            </ComponentWrap>
         </>
     )
 }

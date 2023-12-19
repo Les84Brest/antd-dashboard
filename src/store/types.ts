@@ -26,7 +26,7 @@ export interface IOrderLineBasic {
 export interface IOrderLine extends IOrderLineBasic {
     manager_id: number,
     category_id: number,
-
+    key: number
 }
 
 export interface SalesChartDataItem {

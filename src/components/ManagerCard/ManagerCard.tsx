@@ -38,6 +38,11 @@ interface ManagerCardProps {
     manager: IManagerGeneralData
 }
 
+/**
+ * @description Shows general manager data: sales, orders count, contacts
+ * @param manager
+ * @constructor
+ */
 export const ManagerCard: FC<ManagerCardProps> = ({manager}) => {
     // These constructions are needed just to simply map avatars  to managers. For the purposes of this project
 
@@ -77,8 +82,8 @@ export const ManagerCard: FC<ManagerCardProps> = ({manager}) => {
                     {manager.manager_name}
                 </ManagerTitle>
                 <ManagerTextRow>
-                    <ManagerIconWrap><PoundCircleOutlined style={{fontSize: '20px'}}/></ManagerIconWrap>Revenue
-                    - {manager.sales}
+                    <ManagerIconWrap><PoundCircleOutlined style={{fontSize: '20px'}}/></ManagerIconWrap>Sales
+                    - {Intl.NumberFormat('ru-ru').format(manager.sales)}
                 </ManagerTextRow>
                 <ManagerTextRow>
                     <ManagerIconWrap><CarryOutOutlined style={{fontSize: '20px'}}/></ManagerIconWrap> Orders

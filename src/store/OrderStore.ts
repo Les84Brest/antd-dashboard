@@ -1,4 +1,4 @@
-import {action, computed, makeObservable, observable} from "mobx";
+import {action, computed, makeObservable, observable, runInAction} from "mobx";
 import {
     ICategory,
     IManager,
@@ -14,6 +14,9 @@ import {DATE_FORMAT} from "../helper/config";
 import {getMonthShort} from "../helper/date";
 import {groupBy} from "lodash-es";
 
+/**
+ * @description MobX store for application
+ */
 export class OrderStore {
 
     orders: IOrderLine[] = [];
@@ -37,18 +40,31 @@ export class OrderStore {
 
     }
 
+    /**
+     * @description stores orders data - evety line represent data about one purchase in order
+     */
     fetchOrdersData = async () => {
-        this.orders = await DataService.getOrders()
-
+        const fetchedOrders = await DataService.getOrders();
+        runInAction(() => this.orders = fetchedOrders);
     }
+    /**
+     * @description stores managers data - name, contacts, avatar
+     */
     fetchManagersData = async () => {
-        this.managers = await DataService.getManagers();
-    }
+        const fetchedManagers = await DataService.getManagers();
+        runInAction(() => this.managers = fetchedManagers);
 
+    }
+    /**
+     * @description stores categories data - category name
+     * */
     fetchCategoriesData = async () => {
-        this.categories = await DataService.getCategories();
+        const fetchedCategories = await DataService.getCategories();
+        runInAction(() => this.categories = fetchedCategories);
     }
-
+    /**
+     * @description ferch all data to begin work
+     */
     initOrdersData = async () => {
         Promise.all([
             this.fetchCategoriesData(),
@@ -56,18 +72,26 @@ export class OrderStore {
             this.fetchOrdersData()])
     }
 
+    /**
+     * @description calculates data to show orders table
+     */
     get ordersRawData() {
-        const processedData = this.orders.map(orderLine => {
+        const processedData = this.orders.map((orderLine, index) => {
             const {manager_id, category_id, ...rest} = orderLine;
             return {
                 ...rest,
                 manager: this.getManagerName(manager_id),
                 category: this.getCategoryName(category_id),
+                key: index
             }
         })
         return processedData;
     }
 
+    /**
+     * @description get manager name by id
+     * @param id
+     */
     getManagerName = (id: number): string => {
         const manager = this.managers.find((manager) => {
             return manager.id === id;
@@ -75,7 +99,10 @@ export class OrderStore {
 
         return manager ? manager.manager_name : '';
     }
-
+    /**
+     * @description Get category name by id
+     * @param id
+     */
     getCategoryName = (id: number): string => {
         const category = this.categories.find((category) => {
             return category.id === id
@@ -85,7 +112,7 @@ export class OrderStore {
     }
 
     /**
-     * Prepage data for buildeing sales by month diagram
+     * @description Prepare data for building sales by month chart
      */
     get salesChartData(): SalesChartDataItem[] {
         const salesByMonth = this.orders.reduce((chartData: { [key: number]: number }, order: IOrderLine) => {
@@ -106,9 +133,11 @@ export class OrderStore {
                 return {month: getMonthShort(key), sum: value}
             })
     }
-
+    /**
+     * @description Prepare data for building sales by managers chart
+     */
     getSalesByManagers = () => {
-        return  this.orders.reduce((chartData: { [key: number]: number }, order: IOrderLine) => {
+        return this.orders.reduce((chartData: { [key: number]: number }, order: IOrderLine) => {
             const manager = order.manager_id;
             const newSum = chartData[manager] ? chartData[manager] + order.sum : order.sum;
 
@@ -117,7 +146,7 @@ export class OrderStore {
     }
 
     /**
-     * Prepare data to build ManagersChart component
+     * @description Prepare data to build ManagersChart component
      */
     get managersChartData(): ManagersChartDataItem[] {
         const salesByManagers = this.getSalesByManagers();
@@ -134,6 +163,9 @@ export class OrderStore {
             })
     }
 
+    /**
+     * @description Prepare data to build CategoriesChart component
+     */
     get categoriesChartData(): CategoryChartDataItem[] {
 
         // eslint-disable-next-line @typescript-eslint/ban-ts-comment
@@ -189,7 +221,7 @@ export class OrderStore {
     }
 
     /**
-     * generate data about managers iformation
+     * @description generate data about managers iformation
      * @returns {IManagerGeneralData[]}
      */
     get managersGeneralData(): IManagerGeneralData[] {
@@ -210,9 +242,11 @@ export class OrderStore {
         const salesByManagers = this.getSalesByManagers();
 
         return this.managers.map((manager) => {
-            return {...manager,
+            return {
+                ...manager,
                 sales: salesByManagers[manager.id],
-                orders_count: ordersByManagers[manager.id]}
+                orders_count: ordersByManagers[manager.id]
+            }
         });
 
     }

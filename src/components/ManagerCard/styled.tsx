@@ -20,10 +20,7 @@ export const ManagerAvatar = styled.img`
     object-fit: contain;
     background-position: center, center;
     background-origin: content-box;
-    
-    @media screen and (max-width: 768px)  {
-        width: 180px;
-    }
+
 `;
 
 export const ManagerText = styled.div`
