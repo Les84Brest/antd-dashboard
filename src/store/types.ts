@@ -2,7 +2,13 @@ export interface IManager {
     id: number,
     manager_name: string,
     phone: string,
-    email: string
+    email: string,
+    avatar: string
+}
+
+export  interface IManagerGeneralData extends IManager{
+    sales: number,
+    orders_count: number
 }
 
 export interface ICategory {
