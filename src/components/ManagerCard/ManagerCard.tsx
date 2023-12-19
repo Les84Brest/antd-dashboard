@@ -1,5 +1,5 @@
 import React, {FC} from 'react'
-import {Typography, Card, Image} from "antd";
+import {Typography} from "antd";
 import {CarryOutOutlined, PoundCircleOutlined} from '@ant-design/icons';
 import '../../types/image.d.ts';
 import avatar1 from '../../assets/users/avatar1.jpg';
@@ -21,7 +21,6 @@ import {
 } from "./styled";
 import styled from "styled-components";
 import {IManagerGeneralData} from "../../store/types";
-import {Descriptions} from 'antd';
 import type {DescriptionsProps} from 'antd';
 
 const {Title} = Typography;
@@ -40,16 +39,7 @@ interface ManagerCardProps {
 }
 
 export const ManagerCard: FC<ManagerCardProps> = ({manager}) => {
-
-    // const avatarRenderMap: { avatar6: string; avatar5: object; avatar7: object; avatar2: object; avatar1: object; avatar4: object; avatar3: object } = {
-    //     avatar1: avatar1,
-    //     avatar2: avatar2,
-    //     avatar3: avatar3,
-    //     avatar4: avatar4,
-    //     avatar5: avatar5,
-    //     avatar6: avatar6,
-    //     avatar7: avatar7,
-    // }
+    // These constructions are needed just to simply map avatars  to managers. For the purposes of this project
 
     const renderMap: { [key: string]: () => string } = {
         avatar1: () => avatar1,
